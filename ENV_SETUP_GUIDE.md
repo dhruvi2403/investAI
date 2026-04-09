@@ -251,7 +251,7 @@ npm run dev
 
 ### For MongoDB Atlas:
 ```env
-MONGODB_ATLAS_URI=mongodb+srv://prod_user:secure_password@cluster.mongodb.net/investai_prod
+MONGODB_ATLAS_URI=mongodb+srv://<username>:<password>@cluster.mongodb.net/investai_prod
 NODE_ENV=production
 PORT=3000
 ```
