@@ -1,0 +1,43 @@
+/* src/components/TradesTable.css */
+.trades-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 10px 0;
+  }
+  
+  .trades-table th {
+    text-align: left;
+    padding: 12px 15px;
+    border-bottom: 2px solid #e5e7eb;
+    color: var(--text-muted);
+    font-weight: 600;
+    font-size: 14px;
+  }
+  
+  .trades-table td {
+    padding: 10px 15px;
+    border-bottom: 1px solid #e5e7eb;
+    font-size: 14px;
+    color: var(--text-dark);
+  }
+  
+  .trades-table tr:hover {
+    background-color: var(--hover-bg);
+  }
+  
+  .badge {
+    padding: 4px 8px;
+    border-radius: 4px;
+    font-size: 12px;
+    font-weight: 500;
+  }
+  
+  .badge.completed {
+    background-color: rgba(16, 185, 129, 0.1);
+    color: var(--success);
+  }
+  
+  .badge.pending {
+    background-color: rgba(245, 158, 11, 0.1);
+    color: var(--warning);
+  }

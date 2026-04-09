@@ -1,0 +1,84 @@
+/* src/styles/global.css */
+:root {
+    --primary: #2563eb;
+    --secondary: #10b981;
+    --dark: #1e293b;
+    --light: #f8fafc;
+    --gray: #64748b;
+    --card-bg: white;
+    --sidebar-bg: #f8fafc;
+    --main-bg: #f8fafc;
+    --hover-bg: #f1f5f9;
+    --text-dark: #1e293b;
+    --text-muted: #64748b;
+    --success: #10b981;
+    --warning: #f59e0b;
+    --danger: #ef4444;
+  }
+  
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Inter', -apple-system, sans-serif;
+    background-color: var(--main-bg);
+    color: var(--text-dark);
+    line-height: 1.5;
+  }
+  
+  .app-container {
+    display: flex;
+    min-height: 100vh;
+  }
+  
+  .main-content {
+    flex: 1;
+    padding: 20px;
+  }
+  
+  .page-title {
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: var(--text-dark);
+    font-weight: 700;
+  }
+  
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+  }
+  
+  .grid-3 {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+  }
+  
+  .positive {
+    color: var(--success);
+  }
+  
+  .negative {
+    color: var(--danger);
+  }
+  
+  .warning {
+    color: var(--warning);
+  }
+  
+  /* Responsive adjustments */
+  @media (max-width: 992px) {
+    .grid, .grid-3 {
+      grid-template-columns: 1fr;
+    }
+    
+    .app-container {
+      flex-direction: column;
+    }
+  }

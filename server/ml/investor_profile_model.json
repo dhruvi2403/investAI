@@ -1,0 +1,5826 @@
+{
+  "trees": [
+    {
+      "isLeaf": false,
+      "featureIdx": 3,
+      "threshold": 85,
+      "left": {
+        "isLeaf": false,
+        "featureIdx": 4,
+        "threshold": 34,
+        "left": {
+          "isLeaf": false,
+          "featureIdx": 9,
+          "threshold": 58.65614713133682,
+          "left": {
+            "isLeaf": false,
+            "featureIdx": 1,
+            "threshold": 215762,
+            "left": {
+              "isLeaf": false,
+              "featureIdx": 8,
+              "threshold": 5.002918020321756,
+              "left": {
+                "isLeaf": false,
+                "featureIdx": 3,
+                "threshold": 7,
+                "left": {
+                  "isLeaf": true,
+                  "prediction": "Conservative"
+                },
+                "right": {
+                  "isLeaf": false,
+                  "featureIdx": 2,
+                  "threshold": 72.30765736447007,
+                  "left": {
+                    "isLeaf": true,
+                    "prediction": "Moderate"
+                  },
+                  "right": {
+                    "isLeaf": false,
+                    "featureIdx": 0,
+                    "threshold": 33,
+                    "left": {
+                      "isLeaf": true,
+                      "prediction": "Aggressive"
+                    },
+                    "right": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    }
+                  }
+                }
+              },
+              "right": {
+                "isLeaf": false,
+                "featureIdx": 7,
+                "threshold": 76.2402651141661,
+                "left": {
+                  "isLeaf": false,
+                  "featureIdx": 7,
+                  "threshold": 7.093513588823264,
+                  "left": {
+                    "isLeaf": false,
+                    "featureIdx": 2,
+                    "threshold": 11.155896748606686,
+                    "left": {
+                      "isLeaf": true,
+                      "prediction": "Conservative"
+                    },
+                    "right": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    }
+                  },
+                  "right": {
+                    "isLeaf": false,
+                    "featureIdx": 4,
+                    "threshold": 32,
+                    "left": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    },
+                    "right": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    }
+                  }
+                },
+                "right": {
+                  "isLeaf": false,
+                  "featureIdx": 3,
+                  "threshold": 74,
+                  "left": {
+                    "isLeaf": false,
+                    "featureIdx": 5,
+                    "threshold": 84.93102097199672,
+                    "left": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    },
+                    "right": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    }
+                  },
+                  "right": {
+                    "isLeaf": false,
+                    "featureIdx": 2,
+                    "threshold": 61.67662282152742,
+                    "left": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    },
+                    "right": {
+                      "isLeaf": true,
+                      "prediction": "Aggressive"
+                    }
+                  }
+                }
+              }
+            },
+            "right": {
+              "isLeaf": false,
+              "featureIdx": 5,
+              "threshold": 75.33285504256608,
+              "left": {
+                "isLeaf": true,
+                "prediction": "Moderate"
+              },
+              "right": {
+                "isLeaf": true,
+                "prediction": "Aggressive"
+              }
+            }
+          },
+          "right": {
+            "isLeaf": false,
+            "featureIdx": 2,
+            "threshold": 50.89252780155667,
+            "left": {
+              "isLeaf": false,
+              "featureIdx": 1,
+              "threshold": 26394,
+              "left": {
+                "isLeaf": false,
+                "featureIdx": 5,
+                "threshold": 42.399906226240326,
+                "left": {
+                  "isLeaf": true,
+                  "prediction": "Conservative"
+                },
+                "right": {
+                  "isLeaf": true,
+                  "prediction": "Moderate"
+                }
+              },
+              "right": {
+                "isLeaf": false,
+                "featureIdx": 0,
+                "threshold": 57,
+                "left": {
+                  "isLeaf": false,
+                  "featureIdx": 4,
+                  "threshold": 29,
+                  "left": {
+                    "isLeaf": false,
+                    "featureIdx": 4,
+                    "threshold": 1,
+                    "left": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    },
+                    "right": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    }
+                  },
+                  "right": {
+                    "isLeaf": false,
+                    "featureIdx": 6,
+                    "threshold": 4,
+                    "left": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    },
+                    "right": {
+                      "isLeaf": true,
+                      "prediction": "Aggressive"
+                    }
+                  }
+                },
+                "right": {
+                  "isLeaf": false,
+                  "featureIdx": 8,
+                  "threshold": 16.80456736788587,
+                  "left": {
+                    "isLeaf": false,
+                    "featureIdx": 1,
+                    "threshold": 164913,
+                    "left": {
+                      "isLeaf": true,
+                      "prediction": "Aggressive"
+                    },
+                    "right": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    }
+                  },
+                  "right": {
+                    "isLeaf": false,
+                    "featureIdx": 7,
+                    "threshold": 84.04562133880158,
+                    "left": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    },
+                    "right": {
+                      "isLeaf": true,
+                      "prediction": "Aggressive"
+                    }
+                  }
+                }
+              }
+            },
+            "right": {
+              "isLeaf": false,
+              "featureIdx": 4,
+              "threshold": 15,
+              "left": {
+                "isLeaf": false,
+                "featureIdx": 1,
+                "threshold": 173054,
+                "left": {
+                  "isLeaf": true,
+                  "prediction": "Moderate"
+                },
+                "right": {
+                  "isLeaf": false,
+                  "featureIdx": 1,
+                  "threshold": 181499,
+                  "left": {
+                    "isLeaf": true,
+                    "prediction": "Aggressive"
+                  },
+                  "right": {
+                    "isLeaf": false,
+                    "featureIdx": 1,
+                    "threshold": 209235,
+                    "left": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    },
+                    "right": {
+                      "isLeaf": true,
+                      "prediction": "Aggressive"
+                    }
+                  }
+                }
+              },
+              "right": {
+                "isLeaf": false,
+                "featureIdx": 3,
+                "threshold": 33,
+                "left": {
+                  "isLeaf": false,
+                  "featureIdx": 8,
+                  "threshold": 38.27328564380637,
+                  "left": {
+                    "isLeaf": false,
+                    "featureIdx": 1,
+                    "threshold": 53650,
+                    "left": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    },
+                    "right": {
+                      "isLeaf": true,
+                      "prediction": "Aggressive"
+                    }
+                  },
+                  "right": {
+                    "isLeaf": true,
+                    "prediction": "Moderate"
+                  }
+                },
+                "right": {
+                  "isLeaf": false,
+                  "featureIdx": 1,
+                  "threshold": 57760,
+                  "left": {
+                    "isLeaf": false,
+                    "featureIdx": 0,
+                    "threshold": 53,
+                    "left": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    },
+                    "right": {
+                      "isLeaf": true,
+                      "prediction": "Aggressive"
+                    }
+                  },
+                  "right": {
+                    "isLeaf": true,
+                    "prediction": "Aggressive"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "right": {
+          "isLeaf": false,
+          "featureIdx": 7,
+          "threshold": 37.986612308911184,
+          "left": {
+            "isLeaf": false,
+            "featureIdx": 8,
+            "threshold": 11.570236995690042,
+            "left": {
+              "isLeaf": false,
+              "featureIdx": 0,
+              "threshold": 29,
+              "left": {
+                "isLeaf": true,
+                "prediction": "Moderate"
+              },
+              "right": {
+                "isLeaf": true,
+                "prediction": "Aggressive"
+              }
+            },
+            "right": {
+              "isLeaf": true,
+              "prediction": "Moderate"
+            }
+          },
+          "right": {
+            "isLeaf": false,
+            "featureIdx": 3,
+            "threshold": 38,
+            "left": {
+              "isLeaf": false,
+              "featureIdx": 2,
+              "threshold": 68.26472479496192,
+              "left": {
+                "isLeaf": false,
+                "featureIdx": 9,
+                "threshold": 83.4617374487113,
+                "left": {
+                  "isLeaf": true,
+                  "prediction": "Moderate"
+                },
+                "right": {
+                  "isLeaf": false,
+                  "featureIdx": 0,
+                  "threshold": 27,
+                  "left": {
+                    "isLeaf": true,
+                    "prediction": "Moderate"
+                  },
+                  "right": {
+                    "isLeaf": true,
+                    "prediction": "Aggressive"
+                  }
+                }
+              },
+              "right": {
+                "isLeaf": false,
+                "featureIdx": 0,
+                "threshold": 62,
+                "left": {
+                  "isLeaf": true,
+                  "prediction": "Aggressive"
+                },
+                "right": {
+                  "isLeaf": true,
+                  "prediction": "Moderate"
+                }
+              }
+            },
+            "right": {
+              "isLeaf": false,
+              "featureIdx": 0,
+              "threshold": 20,
+              "left": {
+                "isLeaf": true,
+                "prediction": "Moderate"
+              },
+              "right": {
+                "isLeaf": false,
+                "featureIdx": 0,
+                "threshold": 65,
+                "left": {
+                  "isLeaf": true,
+                  "prediction": "Aggressive"
+                },
+                "right": {
+                  "isLeaf": true,
+                  "prediction": "Moderate"
+                }
+              }
+            }
+          }
+        }
+      },
+      "right": {
+        "isLeaf": false,
+        "featureIdx": 4,
+        "threshold": 28,
+        "left": {
+          "isLeaf": false,
+          "featureIdx": 8,
+          "threshold": 61.910487012283944,
+          "left": {
+            "isLeaf": false,
+            "featureIdx": 7,
+            "threshold": 74.92264766085796,
+            "left": {
+              "isLeaf": false,
+              "featureIdx": 5,
+              "threshold": 84.4937218166758,
+              "left": {
+                "isLeaf": false,
+                "featureIdx": 2,
+                "threshold": 83.05400619129328,
+                "left": {
+                  "isLeaf": false,
+                  "featureIdx": 0,
+                  "threshold": 53,
+                  "left": {
+                    "isLeaf": true,
+                    "prediction": "Moderate"
+                  },
+                  "right": {
+                    "isLeaf": false,
+                    "featureIdx": 4,
+                    "threshold": 7,
+                    "left": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    },
+                    "right": {
+                      "isLeaf": true,
+                      "prediction": "Aggressive"
+                    }
+                  }
+                },
+                "right": {
+                  "isLeaf": true,
+                  "prediction": "Aggressive"
+                }
+              },
+              "right": {
+                "isLeaf": false,
+                "featureIdx": 4,
+                "threshold": 14,
+                "left": {
+                  "isLeaf": false,
+                  "featureIdx": 0,
+                  "threshold": 24,
+                  "left": {
+                    "isLeaf": true,
+                    "prediction": "Aggressive"
+                  },
+                  "right": {
+                    "isLeaf": true,
+                    "prediction": "Moderate"
+                  }
+                },
+                "right": {
+                  "isLeaf": true,
+                  "prediction": "Aggressive"
+                }
+              }
+            },
+            "right": {
+              "isLeaf": false,
+              "featureIdx": 1,
+              "threshold": 181994,
+              "left": {
+                "isLeaf": true,
+                "prediction": "Aggressive"
+              },
+              "right": {
+                "isLeaf": false,
+                "featureIdx": 0,
+                "threshold": 49,
+                "left": {
+                  "isLeaf": true,
+                  "prediction": "Moderate"
+                },
+                "right": {
+                  "isLeaf": true,
+                  "prediction": "Aggressive"
+                }
+              }
+            }
+          },
+          "right": {
+            "isLeaf": false,
+            "featureIdx": 8,
+            "threshold": 98.6019304157097,
+            "left": {
+              "isLeaf": false,
+              "featureIdx": 3,
+              "threshold": 86,
+              "left": {
+                "isLeaf": false,
+                "featureIdx": 0,
+                "threshold": 36,
+                "left": {
+                  "isLeaf": true,
+                  "prediction": "Moderate"
+                },
+                "right": {
+                  "isLeaf": true,
+                  "prediction": "Aggressive"
+                }
+              },
+              "right": {
+                "isLeaf": true,
+                "prediction": "Moderate"
+              }
+            },
+            "right": {
+              "isLeaf": true,
+              "prediction": "Aggressive"
+            }
+          }
+        },
+        "right": {
+          "isLeaf": false,
+          "featureIdx": 1,
+          "threshold": 69673,
+          "left": {
+            "isLeaf": true,
+            "prediction": "Moderate"
+          },
+          "right": {
+            "isLeaf": true,
+            "prediction": "Aggressive"
+          }
+        }
+      }
+    },
+    {
+      "isLeaf": false,
+      "featureIdx": 4,
+      "threshold": 32,
+      "left": {
+        "isLeaf": false,
+        "featureIdx": 3,
+        "threshold": 76,
+        "left": {
+          "isLeaf": false,
+          "featureIdx": 1,
+          "threshold": 215973,
+          "left": {
+            "isLeaf": false,
+            "featureIdx": 6,
+            "threshold": 3,
+            "left": {
+              "isLeaf": false,
+              "featureIdx": 8,
+              "threshold": 99.8657542639467,
+              "left": {
+                "isLeaf": false,
+                "featureIdx": 5,
+                "threshold": 4.322816672155549,
+                "left": {
+                  "isLeaf": false,
+                  "featureIdx": 1,
+                  "threshold": 51804,
+                  "left": {
+                    "isLeaf": true,
+                    "prediction": "Conservative"
+                  },
+                  "right": {
+                    "isLeaf": true,
+                    "prediction": "Moderate"
+                  }
+                },
+                "right": {
+                  "isLeaf": false,
+                  "featureIdx": 4,
+                  "threshold": 20,
+                  "left": {
+                    "isLeaf": false,
+                    "featureIdx": 4,
+                    "threshold": 1,
+                    "left": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    },
+                    "right": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    }
+                  },
+                  "right": {
+                    "isLeaf": false,
+                    "featureIdx": 2,
+                    "threshold": 85.63093370323081,
+                    "left": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    },
+                    "right": {
+                      "isLeaf": true,
+                      "prediction": "Aggressive"
+                    }
+                  }
+                }
+              },
+              "right": {
+                "isLeaf": true,
+                "prediction": "Conservative"
+              }
+            },
+            "right": {
+              "isLeaf": false,
+              "featureIdx": 2,
+              "threshold": 82.42665796214352,
+              "left": {
+                "isLeaf": false,
+                "featureIdx": 7,
+                "threshold": 79.26910285189106,
+                "left": {
+                  "isLeaf": false,
+                  "featureIdx": 4,
+                  "threshold": 24,
+                  "left": {
+                    "isLeaf": false,
+                    "featureIdx": 8,
+                    "threshold": 97.59503425169981,
+                    "left": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    },
+                    "right": {
+                      "isLeaf": true,
+                      "prediction": "Conservative"
+                    }
+                  },
+                  "right": {
+                    "isLeaf": false,
+                    "featureIdx": 5,
+                    "threshold": 51.29399788747189,
+                    "left": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    },
+                    "right": {
+                      "isLeaf": true,
+                      "prediction": "Aggressive"
+                    }
+                  }
+                },
+                "right": {
+                  "isLeaf": false,
+                  "featureIdx": 8,
+                  "threshold": 33.68797819939422,
+                  "left": {
+                    "isLeaf": false,
+                    "featureIdx": 2,
+                    "threshold": 9.087050673541764,
+                    "left": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    },
+                    "right": {
+                      "isLeaf": true,
+                      "prediction": "Aggressive"
+                    }
+                  },
+                  "right": {
+                    "isLeaf": false,
+                    "featureIdx": 0,
+                    "threshold": 61,
+                    "left": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    },
+                    "right": {
+                      "isLeaf": true,
+                      "prediction": "Aggressive"
+                    }
+                  }
+                }
+              },
+              "right": {
+                "isLeaf": false,
+                "featureIdx": 0,
+                "threshold": 46,
+                "left": {
+                  "isLeaf": false,
+                  "featureIdx": 0,
+                  "threshold": 21,
+                  "left": {
+                    "isLeaf": true,
+                    "prediction": "Moderate"
+                  },
+                  "right": {
+                    "isLeaf": true,
+                    "prediction": "Aggressive"
+                  }
+                },
+                "right": {
+                  "isLeaf": false,
+                  "featureIdx": 3,
+                  "threshold": 64,
+                  "left": {
+                    "isLeaf": false,
+                    "featureIdx": 0,
+                    "threshold": 64,
+                    "left": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    },
+                    "right": {
+                      "isLeaf": true,
+                      "prediction": "Aggressive"
+                    }
+                  },
+                  "right": {
+                    "isLeaf": true,
+                    "prediction": "Aggressive"
+                  }
+                }
+              }
+            }
+          },
+          "right": {
+            "isLeaf": false,
+            "featureIdx": 7,
+            "threshold": 76.5274564665299,
+            "left": {
+              "isLeaf": true,
+              "prediction": "Moderate"
+            },
+            "right": {
+              "isLeaf": true,
+              "prediction": "Aggressive"
+            }
+          }
+        },
+        "right": {
+          "isLeaf": false,
+          "featureIdx": 8,
+          "threshold": 32.24122590272991,
+          "left": {
+            "isLeaf": false,
+            "featureIdx": 7,
+            "threshold": 46.681988040448076,
+            "left": {
+              "isLeaf": false,
+              "featureIdx": 0,
+              "threshold": 59,
+              "left": {
+                "isLeaf": false,
+                "featureIdx": 2,
+                "threshold": 74.56531450353872,
+                "left": {
+                  "isLeaf": true,
+                  "prediction": "Moderate"
+                },
+                "right": {
+                  "isLeaf": true,
+                  "prediction": "Aggressive"
+                }
+              },
+              "right": {
+                "isLeaf": false,
+                "featureIdx": 0,
+                "threshold": 63,
+                "left": {
+                  "isLeaf": true,
+                  "prediction": "Aggressive"
+                },
+                "right": {
+                  "isLeaf": true,
+                  "prediction": "Moderate"
+                }
+              }
+            },
+            "right": {
+              "isLeaf": false,
+              "featureIdx": 9,
+              "threshold": 16.664110294244505,
+              "left": {
+                "isLeaf": false,
+                "featureIdx": 1,
+                "threshold": 117079,
+                "left": {
+                  "isLeaf": true,
+                  "prediction": "Moderate"
+                },
+                "right": {
+                  "isLeaf": true,
+                  "prediction": "Aggressive"
+                }
+              },
+              "right": {
+                "isLeaf": false,
+                "featureIdx": 5,
+                "threshold": 15.526454812335299,
+                "left": {
+                  "isLeaf": false,
+                  "featureIdx": 0,
+                  "threshold": 35,
+                  "left": {
+                    "isLeaf": true,
+                    "prediction": "Moderate"
+                  },
+                  "right": {
+                    "isLeaf": true,
+                    "prediction": "Aggressive"
+                  }
+                },
+                "right": {
+                  "isLeaf": true,
+                  "prediction": "Aggressive"
+                }
+              }
+            }
+          },
+          "right": {
+            "isLeaf": false,
+            "featureIdx": 5,
+            "threshold": 58.41021315746951,
+            "left": {
+              "isLeaf": false,
+              "featureIdx": 9,
+              "threshold": 83.12949853288698,
+              "left": {
+                "isLeaf": false,
+                "featureIdx": 4,
+                "threshold": 31,
+                "left": {
+                  "isLeaf": false,
+                  "featureIdx": 4,
+                  "threshold": 25,
+                  "left": {
+                    "isLeaf": true,
+                    "prediction": "Moderate"
+                  },
+                  "right": {
+                    "isLeaf": false,
+                    "featureIdx": 2,
+                    "threshold": 46.384509152240014,
+                    "left": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    },
+                    "right": {
+                      "isLeaf": true,
+                      "prediction": "Aggressive"
+                    }
+                  }
+                },
+                "right": {
+                  "isLeaf": false,
+                  "featureIdx": 0,
+                  "threshold": 35,
+                  "left": {
+                    "isLeaf": true,
+                    "prediction": "Aggressive"
+                  },
+                  "right": {
+                    "isLeaf": true,
+                    "prediction": "Moderate"
+                  }
+                }
+              },
+              "right": {
+                "isLeaf": false,
+                "featureIdx": 0,
+                "threshold": 55,
+                "left": {
+                  "isLeaf": true,
+                  "prediction": "Moderate"
+                },
+                "right": {
+                  "isLeaf": true,
+                  "prediction": "Aggressive"
+                }
+              }
+            },
+            "right": {
+              "isLeaf": false,
+              "featureIdx": 2,
+              "threshold": 87.83840122459922,
+              "left": {
+                "isLeaf": false,
+                "featureIdx": 6,
+                "threshold": 3,
+                "left": {
+                  "isLeaf": false,
+                  "featureIdx": 0,
+                  "threshold": 67,
+                  "left": {
+                    "isLeaf": false,
+                    "featureIdx": 0,
+                    "threshold": 59,
+                    "left": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    },
+                    "right": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    }
+                  },
+                  "right": {
+                    "isLeaf": true,
+                    "prediction": "Aggressive"
+                  }
+                },
+                "right": {
+                  "isLeaf": false,
+                  "featureIdx": 7,
+                  "threshold": 28.648023235268294,
+                  "left": {
+                    "isLeaf": true,
+                    "prediction": "Moderate"
+                  },
+                  "right": {
+                    "isLeaf": true,
+                    "prediction": "Aggressive"
+                  }
+                }
+              },
+              "right": {
+                "isLeaf": true,
+                "prediction": "Aggressive"
+              }
+            }
+          }
+        }
+      },
+      "right": {
+        "isLeaf": false,
+        "featureIdx": 7,
+        "threshold": 37.986612308911184,
+        "left": {
+          "isLeaf": false,
+          "featureIdx": 8,
+          "threshold": 11.570236995690042,
+          "left": {
+            "isLeaf": false,
+            "featureIdx": 8,
+            "threshold": 1.8458765872177985,
+            "left": {
+              "isLeaf": true,
+              "prediction": "Moderate"
+            },
+            "right": {
+              "isLeaf": true,
+              "prediction": "Aggressive"
+            }
+          },
+          "right": {
+            "isLeaf": false,
+            "featureIdx": 3,
+            "threshold": 80,
+            "left": {
+              "isLeaf": false,
+              "featureIdx": 5,
+              "threshold": 75.61353713143824,
+              "left": {
+                "isLeaf": false,
+                "featureIdx": 9,
+                "threshold": 83.80675639200976,
+                "left": {
+                  "isLeaf": true,
+                  "prediction": "Moderate"
+                },
+                "right": {
+                  "isLeaf": false,
+                  "featureIdx": 1,
+                  "threshold": 162409,
+                  "left": {
+                    "isLeaf": true,
+                    "prediction": "Moderate"
+                  },
+                  "right": {
+                    "isLeaf": true,
+                    "prediction": "Aggressive"
+                  }
+                }
+              },
+              "right": {
+                "isLeaf": false,
+                "featureIdx": 2,
+                "threshold": 73.03000222496698,
+                "left": {
+                  "isLeaf": true,
+                  "prediction": "Aggressive"
+                },
+                "right": {
+                  "isLeaf": true,
+                  "prediction": "Moderate"
+                }
+              }
+            },
+            "right": {
+              "isLeaf": false,
+              "featureIdx": 4,
+              "threshold": 37,
+              "left": {
+                "isLeaf": true,
+                "prediction": "Aggressive"
+              },
+              "right": {
+                "isLeaf": true,
+                "prediction": "Moderate"
+              }
+            }
+          }
+        },
+        "right": {
+          "isLeaf": false,
+          "featureIdx": 3,
+          "threshold": 60,
+          "left": {
+            "isLeaf": false,
+            "featureIdx": 6,
+            "threshold": 4,
+            "left": {
+              "isLeaf": false,
+              "featureIdx": 5,
+              "threshold": 89.6654784313786,
+              "left": {
+                "isLeaf": false,
+                "featureIdx": 2,
+                "threshold": 76.08478285797342,
+                "left": {
+                  "isLeaf": false,
+                  "featureIdx": 1,
+                  "threshold": 21902,
+                  "left": {
+                    "isLeaf": true,
+                    "prediction": "Aggressive"
+                  },
+                  "right": {
+                    "isLeaf": false,
+                    "featureIdx": 3,
+                    "threshold": 3,
+                    "left": {
+                      "isLeaf": true,
+                      "prediction": "Aggressive"
+                    },
+                    "right": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    }
+                  }
+                },
+                "right": {
+                  "isLeaf": false,
+                  "featureIdx": 8,
+                  "threshold": 52.457418699671706,
+                  "left": {
+                    "isLeaf": true,
+                    "prediction": "Aggressive"
+                  },
+                  "right": {
+                    "isLeaf": true,
+                    "prediction": "Moderate"
+                  }
+                }
+              },
+              "right": {
+                "isLeaf": true,
+                "prediction": "Aggressive"
+              }
+            },
+            "right": {
+              "isLeaf": false,
+              "featureIdx": 5,
+              "threshold": 83.31616489883677,
+              "left": {
+                "isLeaf": true,
+                "prediction": "Aggressive"
+              },
+              "right": {
+                "isLeaf": false,
+                "featureIdx": 0,
+                "threshold": 46,
+                "left": {
+                  "isLeaf": true,
+                  "prediction": "Aggressive"
+                },
+                "right": {
+                  "isLeaf": true,
+                  "prediction": "Moderate"
+                }
+              }
+            }
+          },
+          "right": {
+            "isLeaf": false,
+            "featureIdx": 2,
+            "threshold": 8.334235857661842,
+            "left": {
+              "isLeaf": true,
+              "prediction": "Moderate"
+            },
+            "right": {
+              "isLeaf": false,
+              "featureIdx": 5,
+              "threshold": 16.513657954731386,
+              "left": {
+                "isLeaf": false,
+                "featureIdx": 0,
+                "threshold": 27,
+                "left": {
+                  "isLeaf": true,
+                  "prediction": "Moderate"
+                },
+                "right": {
+                  "isLeaf": true,
+                  "prediction": "Aggressive"
+                }
+              },
+              "right": {
+                "isLeaf": true,
+                "prediction": "Aggressive"
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "isLeaf": false,
+      "featureIdx": 4,
+      "threshold": 21,
+      "left": {
+        "isLeaf": false,
+        "featureIdx": 3,
+        "threshold": 85,
+        "left": {
+          "isLeaf": false,
+          "featureIdx": 8,
+          "threshold": 0.2778822237859524,
+          "left": {
+            "isLeaf": true,
+            "prediction": "Aggressive"
+          },
+          "right": {
+            "isLeaf": false,
+            "featureIdx": 1,
+            "threshold": 56247,
+            "left": {
+              "isLeaf": false,
+              "featureIdx": 3,
+              "threshold": 35,
+              "left": {
+                "isLeaf": false,
+                "featureIdx": 5,
+                "threshold": 46.78429958880346,
+                "left": {
+                  "isLeaf": false,
+                  "featureIdx": 0,
+                  "threshold": 26,
+                  "left": {
+                    "isLeaf": false,
+                    "featureIdx": 1,
+                    "threshold": 50758,
+                    "left": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    },
+                    "right": {
+                      "isLeaf": true,
+                      "prediction": "Conservative"
+                    }
+                  },
+                  "right": {
+                    "isLeaf": true,
+                    "prediction": "Conservative"
+                  }
+                },
+                "right": {
+                  "isLeaf": false,
+                  "featureIdx": 7,
+                  "threshold": 1.8580556296267092,
+                  "left": {
+                    "isLeaf": true,
+                    "prediction": "Conservative"
+                  },
+                  "right": {
+                    "isLeaf": true,
+                    "prediction": "Moderate"
+                  }
+                }
+              },
+              "right": {
+                "isLeaf": false,
+                "featureIdx": 7,
+                "threshold": 93.79554617650356,
+                "left": {
+                  "isLeaf": true,
+                  "prediction": "Moderate"
+                },
+                "right": {
+                  "isLeaf": false,
+                  "featureIdx": 0,
+                  "threshold": 49,
+                  "left": {
+                    "isLeaf": true,
+                    "prediction": "Aggressive"
+                  },
+                  "right": {
+                    "isLeaf": true,
+                    "prediction": "Moderate"
+                  }
+                }
+              }
+            },
+            "right": {
+              "isLeaf": false,
+              "featureIdx": 8,
+              "threshold": 31.102667224500212,
+              "left": {
+                "isLeaf": false,
+                "featureIdx": 3,
+                "threshold": 63,
+                "left": {
+                  "isLeaf": false,
+                  "featureIdx": 8,
+                  "threshold": 30.132341220445703,
+                  "left": {
+                    "isLeaf": false,
+                    "featureIdx": 1,
+                    "threshold": 208495,
+                    "left": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    },
+                    "right": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    }
+                  },
+                  "right": {
+                    "isLeaf": true,
+                    "prediction": "Aggressive"
+                  }
+                },
+                "right": {
+                  "isLeaf": false,
+                  "featureIdx": 2,
+                  "threshold": 69.58867354227156,
+                  "left": {
+                    "isLeaf": false,
+                    "featureIdx": 0,
+                    "threshold": 58,
+                    "left": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    },
+                    "right": {
+                      "isLeaf": true,
+                      "prediction": "Aggressive"
+                    }
+                  },
+                  "right": {
+                    "isLeaf": true,
+                    "prediction": "Aggressive"
+                  }
+                }
+              },
+              "right": {
+                "isLeaf": false,
+                "featureIdx": 0,
+                "threshold": 25,
+                "left": {
+                  "isLeaf": false,
+                  "featureIdx": 2,
+                  "threshold": 26.492453774484748,
+                  "left": {
+                    "isLeaf": false,
+                    "featureIdx": 0,
+                    "threshold": 21,
+                    "left": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    },
+                    "right": {
+                      "isLeaf": true,
+                      "prediction": "Conservative"
+                    }
+                  },
+                  "right": {
+                    "isLeaf": false,
+                    "featureIdx": 4,
+                    "threshold": 20,
+                    "left": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    },
+                    "right": {
+                      "isLeaf": true,
+                      "prediction": "Aggressive"
+                    }
+                  }
+                },
+                "right": {
+                  "isLeaf": false,
+                  "featureIdx": 8,
+                  "threshold": 97.59503425169981,
+                  "left": {
+                    "isLeaf": false,
+                    "featureIdx": 2,
+                    "threshold": 96.22742355866826,
+                    "left": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    },
+                    "right": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    }
+                  },
+                  "right": {
+                    "isLeaf": false,
+                    "featureIdx": 2,
+                    "threshold": 20.46481041136017,
+                    "left": {
+                      "isLeaf": true,
+                      "prediction": "Conservative"
+                    },
+                    "right": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "right": {
+          "isLeaf": false,
+          "featureIdx": 0,
+          "threshold": 47,
+          "left": {
+            "isLeaf": false,
+            "featureIdx": 1,
+            "threshold": 200826,
+            "left": {
+              "isLeaf": true,
+              "prediction": "Moderate"
+            },
+            "right": {
+              "isLeaf": true,
+              "prediction": "Aggressive"
+            }
+          },
+          "right": {
+            "isLeaf": false,
+            "featureIdx": 4,
+            "threshold": 14,
+            "left": {
+              "isLeaf": false,
+              "featureIdx": 8,
+              "threshold": 32.26456446906689,
+              "left": {
+                "isLeaf": false,
+                "featureIdx": 9,
+                "threshold": 17.784875069637373,
+                "left": {
+                  "isLeaf": true,
+                  "prediction": "Moderate"
+                },
+                "right": {
+                  "isLeaf": true,
+                  "prediction": "Aggressive"
+                }
+              },
+              "right": {
+                "isLeaf": false,
+                "featureIdx": 2,
+                "threshold": 88.03377109397441,
+                "left": {
+                  "isLeaf": true,
+                  "prediction": "Moderate"
+                },
+                "right": {
+                  "isLeaf": true,
+                  "prediction": "Aggressive"
+                }
+              }
+            },
+            "right": {
+              "isLeaf": false,
+              "featureIdx": 1,
+              "threshold": 63572,
+              "left": {
+                "isLeaf": true,
+                "prediction": "Moderate"
+              },
+              "right": {
+                "isLeaf": true,
+                "prediction": "Aggressive"
+              }
+            }
+          }
+        }
+      },
+      "right": {
+        "isLeaf": false,
+        "featureIdx": 3,
+        "threshold": 46,
+        "left": {
+          "isLeaf": false,
+          "featureIdx": 6,
+          "threshold": 4,
+          "left": {
+            "isLeaf": false,
+            "featureIdx": 5,
+            "threshold": 94.6361463016008,
+            "left": {
+              "isLeaf": false,
+              "featureIdx": 4,
+              "threshold": 22,
+              "left": {
+                "isLeaf": false,
+                "featureIdx": 9,
+                "threshold": 15.88759859775466,
+                "left": {
+                  "isLeaf": true,
+                  "prediction": "Conservative"
+                },
+                "right": {
+                  "isLeaf": true,
+                  "prediction": "Moderate"
+                }
+              },
+              "right": {
+                "isLeaf": false,
+                "featureIdx": 6,
+                "threshold": 3,
+                "left": {
+                  "isLeaf": false,
+                  "featureIdx": 1,
+                  "threshold": 178673,
+                  "left": {
+                    "isLeaf": true,
+                    "prediction": "Moderate"
+                  },
+                  "right": {
+                    "isLeaf": false,
+                    "featureIdx": 5,
+                    "threshold": 83.98742889456905,
+                    "left": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    },
+                    "right": {
+                      "isLeaf": true,
+                      "prediction": "Aggressive"
+                    }
+                  }
+                },
+                "right": {
+                  "isLeaf": false,
+                  "featureIdx": 2,
+                  "threshold": 68.26472479496192,
+                  "left": {
+                    "isLeaf": false,
+                    "featureIdx": 9,
+                    "threshold": 83.4617374487113,
+                    "left": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    },
+                    "right": {
+                      "isLeaf": true,
+                      "prediction": "Aggressive"
+                    }
+                  },
+                  "right": {
+                    "isLeaf": false,
+                    "featureIdx": 4,
+                    "threshold": 26,
+                    "left": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    },
+                    "right": {
+                      "isLeaf": true,
+                      "prediction": "Aggressive"
+                    }
+                  }
+                }
+              }
+            },
+            "right": {
+              "isLeaf": true,
+              "prediction": "Aggressive"
+            }
+          },
+          "right": {
+            "isLeaf": false,
+            "featureIdx": 7,
+            "threshold": 45.62590083747986,
+            "left": {
+              "isLeaf": false,
+              "featureIdx": 9,
+              "threshold": 77.99925846600478,
+              "left": {
+                "isLeaf": true,
+                "prediction": "Moderate"
+              },
+              "right": {
+                "isLeaf": true,
+                "prediction": "Aggressive"
+              }
+            },
+            "right": {
+              "isLeaf": false,
+              "featureIdx": 2,
+              "threshold": 21.268611466475317,
+              "left": {
+                "isLeaf": true,
+                "prediction": "Moderate"
+              },
+              "right": {
+                "isLeaf": false,
+                "featureIdx": 9,
+                "threshold": 6.742334462817556,
+                "left": {
+                  "isLeaf": false,
+                  "featureIdx": 1,
+                  "threshold": 133513,
+                  "left": {
+                    "isLeaf": true,
+                    "prediction": "Moderate"
+                  },
+                  "right": {
+                    "isLeaf": true,
+                    "prediction": "Aggressive"
+                  }
+                },
+                "right": {
+                  "isLeaf": true,
+                  "prediction": "Aggressive"
+                }
+              }
+            }
+          }
+        },
+        "right": {
+          "isLeaf": false,
+          "featureIdx": 1,
+          "threshold": 73397,
+          "left": {
+            "isLeaf": false,
+            "featureIdx": 8,
+            "threshold": 7.067762052393234,
+            "left": {
+              "isLeaf": true,
+              "prediction": "Aggressive"
+            },
+            "right": {
+              "isLeaf": false,
+              "featureIdx": 6,
+              "threshold": 3,
+              "left": {
+                "isLeaf": true,
+                "prediction": "Moderate"
+              },
+              "right": {
+                "isLeaf": false,
+                "featureIdx": 0,
+                "threshold": 53,
+                "left": {
+                  "isLeaf": false,
+                  "featureIdx": 5,
+                  "threshold": 86.71261909519234,
+                  "left": {
+                    "isLeaf": true,
+                    "prediction": "Moderate"
+                  },
+                  "right": {
+                    "isLeaf": true,
+                    "prediction": "Aggressive"
+                  }
+                },
+                "right": {
+                  "isLeaf": false,
+                  "featureIdx": 2,
+                  "threshold": 24.134753419121324,
+                  "left": {
+                    "isLeaf": true,
+                    "prediction": "Moderate"
+                  },
+                  "right": {
+                    "isLeaf": true,
+                    "prediction": "Aggressive"
+                  }
+                }
+              }
+            }
+          },
+          "right": {
+            "isLeaf": false,
+            "featureIdx": 2,
+            "threshold": 8.789698589151484,
+            "left": {
+              "isLeaf": true,
+              "prediction": "Moderate"
+            },
+            "right": {
+              "isLeaf": false,
+              "featureIdx": 8,
+              "threshold": 39.10864301229508,
+              "left": {
+                "isLeaf": false,
+                "featureIdx": 8,
+                "threshold": 1.8458765872177985,
+                "left": {
+                  "isLeaf": true,
+                  "prediction": "Moderate"
+                },
+                "right": {
+                  "isLeaf": false,
+                  "featureIdx": 9,
+                  "threshold": 21.906088881564358,
+                  "left": {
+                    "isLeaf": false,
+                    "featureIdx": 0,
+                    "threshold": 31,
+                    "left": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    },
+                    "right": {
+                      "isLeaf": true,
+                      "prediction": "Aggressive"
+                    }
+                  },
+                  "right": {
+                    "isLeaf": false,
+                    "featureIdx": 4,
+                    "threshold": 23,
+                    "left": {
+                      "isLeaf": true,
+                      "prediction": "Aggressive"
+                    },
+                    "right": {
+                      "isLeaf": true,
+                      "prediction": "Aggressive"
+                    }
+                  }
+                }
+              },
+              "right": {
+                "isLeaf": false,
+                "featureIdx": 2,
+                "threshold": 51.90604357986548,
+                "left": {
+                  "isLeaf": false,
+                  "featureIdx": 4,
+                  "threshold": 33,
+                  "left": {
+                    "isLeaf": false,
+                    "featureIdx": 5,
+                    "threshold": 92.04442273374269,
+                    "left": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    },
+                    "right": {
+                      "isLeaf": true,
+                      "prediction": "Aggressive"
+                    }
+                  },
+                  "right": {
+                    "isLeaf": false,
+                    "featureIdx": 2,
+                    "threshold": 45.7793916275598,
+                    "left": {
+                      "isLeaf": true,
+                      "prediction": "Aggressive"
+                    },
+                    "right": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    }
+                  }
+                },
+                "right": {
+                  "isLeaf": false,
+                  "featureIdx": 0,
+                  "threshold": 30,
+                  "left": {
+                    "isLeaf": true,
+                    "prediction": "Moderate"
+                  },
+                  "right": {
+                    "isLeaf": false,
+                    "featureIdx": 7,
+                    "threshold": 38.55271049244395,
+                    "left": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    },
+                    "right": {
+                      "isLeaf": true,
+                      "prediction": "Aggressive"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "isLeaf": false,
+      "featureIdx": 4,
+      "threshold": 34,
+      "left": {
+        "isLeaf": false,
+        "featureIdx": 6,
+        "threshold": 3,
+        "left": {
+          "isLeaf": false,
+          "featureIdx": 7,
+          "threshold": 85.05984194987415,
+          "left": {
+            "isLeaf": false,
+            "featureIdx": 2,
+            "threshold": 78.62912709606063,
+            "left": {
+              "isLeaf": false,
+              "featureIdx": 8,
+              "threshold": 87.40041766904771,
+              "left": {
+                "isLeaf": false,
+                "featureIdx": 7,
+                "threshold": 7.093513588823264,
+                "left": {
+                  "isLeaf": false,
+                  "featureIdx": 9,
+                  "threshold": 24.2673835165375,
+                  "left": {
+                    "isLeaf": false,
+                    "featureIdx": 2,
+                    "threshold": 11.155896748606686,
+                    "left": {
+                      "isLeaf": true,
+                      "prediction": "Conservative"
+                    },
+                    "right": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    }
+                  },
+                  "right": {
+                    "isLeaf": true,
+                    "prediction": "Moderate"
+                  }
+                },
+                "right": {
+                  "isLeaf": false,
+                  "featureIdx": 1,
+                  "threshold": 24114,
+                  "left": {
+                    "isLeaf": false,
+                    "featureIdx": 0,
+                    "threshold": 31,
+                    "left": {
+                      "isLeaf": true,
+                      "prediction": "Conservative"
+                    },
+                    "right": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    }
+                  },
+                  "right": {
+                    "isLeaf": false,
+                    "featureIdx": 9,
+                    "threshold": 94.20033813491857,
+                    "left": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    },
+                    "right": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    }
+                  }
+                }
+              },
+              "right": {
+                "isLeaf": false,
+                "featureIdx": 7,
+                "threshold": 23.680844727811,
+                "left": {
+                  "isLeaf": false,
+                  "featureIdx": 2,
+                  "threshold": 26.492453774484748,
+                  "left": {
+                    "isLeaf": true,
+                    "prediction": "Conservative"
+                  },
+                  "right": {
+                    "isLeaf": true,
+                    "prediction": "Moderate"
+                  }
+                },
+                "right": {
+                  "isLeaf": true,
+                  "prediction": "Moderate"
+                }
+              }
+            },
+            "right": {
+              "isLeaf": false,
+              "featureIdx": 9,
+              "threshold": 56.14513531124774,
+              "left": {
+                "isLeaf": false,
+                "featureIdx": 2,
+                "threshold": 78.86347129409181,
+                "left": {
+                  "isLeaf": true,
+                  "prediction": "Aggressive"
+                },
+                "right": {
+                  "isLeaf": true,
+                  "prediction": "Moderate"
+                }
+              },
+              "right": {
+                "isLeaf": false,
+                "featureIdx": 4,
+                "threshold": 19,
+                "left": {
+                  "isLeaf": false,
+                  "featureIdx": 3,
+                  "threshold": 90,
+                  "left": {
+                    "isLeaf": true,
+                    "prediction": "Moderate"
+                  },
+                  "right": {
+                    "isLeaf": true,
+                    "prediction": "Aggressive"
+                  }
+                },
+                "right": {
+                  "isLeaf": false,
+                  "featureIdx": 0,
+                  "threshold": 21,
+                  "left": {
+                    "isLeaf": true,
+                    "prediction": "Moderate"
+                  },
+                  "right": {
+                    "isLeaf": true,
+                    "prediction": "Aggressive"
+                  }
+                }
+              }
+            }
+          },
+          "right": {
+            "isLeaf": false,
+            "featureIdx": 1,
+            "threshold": 215973,
+            "left": {
+              "isLeaf": false,
+              "featureIdx": 3,
+              "threshold": 74,
+              "left": {
+                "isLeaf": false,
+                "featureIdx": 4,
+                "threshold": 29,
+                "left": {
+                  "isLeaf": true,
+                  "prediction": "Moderate"
+                },
+                "right": {
+                  "isLeaf": false,
+                  "featureIdx": 2,
+                  "threshold": 40.262953646299906,
+                  "left": {
+                    "isLeaf": true,
+                    "prediction": "Moderate"
+                  },
+                  "right": {
+                    "isLeaf": true,
+                    "prediction": "Aggressive"
+                  }
+                }
+              },
+              "right": {
+                "isLeaf": false,
+                "featureIdx": 1,
+                "threshold": 80123,
+                "left": {
+                  "isLeaf": false,
+                  "featureIdx": 2,
+                  "threshold": 40.361052215270774,
+                  "left": {
+                    "isLeaf": true,
+                    "prediction": "Moderate"
+                  },
+                  "right": {
+                    "isLeaf": true,
+                    "prediction": "Aggressive"
+                  }
+                },
+                "right": {
+                  "isLeaf": true,
+                  "prediction": "Aggressive"
+                }
+              }
+            },
+            "right": {
+              "isLeaf": true,
+              "prediction": "Aggressive"
+            }
+          }
+        },
+        "right": {
+          "isLeaf": false,
+          "featureIdx": 3,
+          "threshold": 69,
+          "left": {
+            "isLeaf": false,
+            "featureIdx": 7,
+            "threshold": 85.25348366672998,
+            "left": {
+              "isLeaf": false,
+              "featureIdx": 8,
+              "threshold": 0.33990583985681333,
+              "left": {
+                "isLeaf": false,
+                "featureIdx": 1,
+                "threshold": 175959,
+                "left": {
+                  "isLeaf": true,
+                  "prediction": "Moderate"
+                },
+                "right": {
+                  "isLeaf": true,
+                  "prediction": "Aggressive"
+                }
+              },
+              "right": {
+                "isLeaf": false,
+                "featureIdx": 9,
+                "threshold": 97.14372462583721,
+                "left": {
+                  "isLeaf": false,
+                  "featureIdx": 7,
+                  "threshold": 1.8580556296267092,
+                  "left": {
+                    "isLeaf": false,
+                    "featureIdx": 0,
+                    "threshold": 45,
+                    "left": {
+                      "isLeaf": true,
+                      "prediction": "Conservative"
+                    },
+                    "right": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    }
+                  },
+                  "right": {
+                    "isLeaf": false,
+                    "featureIdx": 9,
+                    "threshold": 51.22682905723628,
+                    "left": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    },
+                    "right": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    }
+                  }
+                },
+                "right": {
+                  "isLeaf": true,
+                  "prediction": "Aggressive"
+                }
+              }
+            },
+            "right": {
+              "isLeaf": false,
+              "featureIdx": 3,
+              "threshold": 38,
+              "left": {
+                "isLeaf": false,
+                "featureIdx": 0,
+                "threshold": 48,
+                "left": {
+                  "isLeaf": true,
+                  "prediction": "Moderate"
+                },
+                "right": {
+                  "isLeaf": true,
+                  "prediction": "Aggressive"
+                }
+              },
+              "right": {
+                "isLeaf": true,
+                "prediction": "Aggressive"
+              }
+            }
+          },
+          "right": {
+            "isLeaf": false,
+            "featureIdx": 8,
+            "threshold": 66.71160728259528,
+            "left": {
+              "isLeaf": false,
+              "featureIdx": 2,
+              "threshold": 52.580372857728854,
+              "left": {
+                "isLeaf": false,
+                "featureIdx": 5,
+                "threshold": 34.612188621532106,
+                "left": {
+                  "isLeaf": false,
+                  "featureIdx": 3,
+                  "threshold": 91,
+                  "left": {
+                    "isLeaf": true,
+                    "prediction": "Moderate"
+                  },
+                  "right": {
+                    "isLeaf": true,
+                    "prediction": "Aggressive"
+                  }
+                },
+                "right": {
+                  "isLeaf": false,
+                  "featureIdx": 9,
+                  "threshold": 68.32042003916416,
+                  "left": {
+                    "isLeaf": false,
+                    "featureIdx": 7,
+                    "threshold": 30.687099633445513,
+                    "left": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    },
+                    "right": {
+                      "isLeaf": true,
+                      "prediction": "Aggressive"
+                    }
+                  },
+                  "right": {
+                    "isLeaf": true,
+                    "prediction": "Aggressive"
+                  }
+                }
+              },
+              "right": {
+                "isLeaf": false,
+                "featureIdx": 8,
+                "threshold": 52.67923161427641,
+                "left": {
+                  "isLeaf": true,
+                  "prediction": "Aggressive"
+                },
+                "right": {
+                  "isLeaf": false,
+                  "featureIdx": 0,
+                  "threshold": 27,
+                  "left": {
+                    "isLeaf": true,
+                    "prediction": "Aggressive"
+                  },
+                  "right": {
+                    "isLeaf": true,
+                    "prediction": "Moderate"
+                  }
+                }
+              }
+            },
+            "right": {
+              "isLeaf": false,
+              "featureIdx": 9,
+              "threshold": 88.37567486080098,
+              "left": {
+                "isLeaf": false,
+                "featureIdx": 0,
+                "threshold": 59,
+                "left": {
+                  "isLeaf": false,
+                  "featureIdx": 4,
+                  "threshold": 31,
+                  "left": {
+                    "isLeaf": true,
+                    "prediction": "Moderate"
+                  },
+                  "right": {
+                    "isLeaf": false,
+                    "featureIdx": 0,
+                    "threshold": 35,
+                    "left": {
+                      "isLeaf": true,
+                      "prediction": "Aggressive"
+                    },
+                    "right": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    }
+                  }
+                },
+                "right": {
+                  "isLeaf": true,
+                  "prediction": "Aggressive"
+                }
+              },
+              "right": {
+                "isLeaf": true,
+                "prediction": "Aggressive"
+              }
+            }
+          }
+        }
+      },
+      "right": {
+        "isLeaf": false,
+        "featureIdx": 7,
+        "threshold": 45.347833371409216,
+        "left": {
+          "isLeaf": false,
+          "featureIdx": 5,
+          "threshold": 82.31909820910744,
+          "left": {
+            "isLeaf": false,
+            "featureIdx": 3,
+            "threshold": 56,
+            "left": {
+              "isLeaf": true,
+              "prediction": "Moderate"
+            },
+            "right": {
+              "isLeaf": false,
+              "featureIdx": 9,
+              "threshold": 44.53422581626172,
+              "left": {
+                "isLeaf": false,
+                "featureIdx": 1,
+                "threshold": 135379,
+                "left": {
+                  "isLeaf": true,
+                  "prediction": "Moderate"
+                },
+                "right": {
+                  "isLeaf": true,
+                  "prediction": "Aggressive"
+                }
+              },
+              "right": {
+                "isLeaf": true,
+                "prediction": "Aggressive"
+              }
+            }
+          },
+          "right": {
+            "isLeaf": true,
+            "prediction": "Aggressive"
+          }
+        },
+        "right": {
+          "isLeaf": false,
+          "featureIdx": 5,
+          "threshold": 33.97827949462211,
+          "left": {
+            "isLeaf": false,
+            "featureIdx": 7,
+            "threshold": 49.81932957970143,
+            "left": {
+              "isLeaf": true,
+              "prediction": "Aggressive"
+            },
+            "right": {
+              "isLeaf": false,
+              "featureIdx": 1,
+              "threshold": 206936,
+              "left": {
+                "isLeaf": true,
+                "prediction": "Moderate"
+              },
+              "right": {
+                "isLeaf": true,
+                "prediction": "Aggressive"
+              }
+            }
+          },
+          "right": {
+            "isLeaf": false,
+            "featureIdx": 8,
+            "threshold": 35.59146001000089,
+            "left": {
+              "isLeaf": true,
+              "prediction": "Aggressive"
+            },
+            "right": {
+              "isLeaf": false,
+              "featureIdx": 1,
+              "threshold": 140031,
+              "left": {
+                "isLeaf": false,
+                "featureIdx": 3,
+                "threshold": 73,
+                "left": {
+                  "isLeaf": false,
+                  "featureIdx": 5,
+                  "threshold": 37.765523788177305,
+                  "left": {
+                    "isLeaf": true,
+                    "prediction": "Aggressive"
+                  },
+                  "right": {
+                    "isLeaf": true,
+                    "prediction": "Moderate"
+                  }
+                },
+                "right": {
+                  "isLeaf": true,
+                  "prediction": "Aggressive"
+                }
+              },
+              "right": {
+                "isLeaf": true,
+                "prediction": "Aggressive"
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "isLeaf": false,
+      "featureIdx": 4,
+      "threshold": 28,
+      "left": {
+        "isLeaf": false,
+        "featureIdx": 7,
+        "threshold": 75.9056038792673,
+        "left": {
+          "isLeaf": false,
+          "featureIdx": 8,
+          "threshold": 13.873122500351776,
+          "left": {
+            "isLeaf": false,
+            "featureIdx": 2,
+            "threshold": 90.03342599400554,
+            "left": {
+              "isLeaf": false,
+              "featureIdx": 1,
+              "threshold": 209235,
+              "left": {
+                "isLeaf": false,
+                "featureIdx": 8,
+                "threshold": 13.75285920299152,
+                "left": {
+                  "isLeaf": false,
+                  "featureIdx": 9,
+                  "threshold": 79.82567122178538,
+                  "left": {
+                    "isLeaf": false,
+                    "featureIdx": 3,
+                    "threshold": 96,
+                    "left": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    },
+                    "right": {
+                      "isLeaf": true,
+                      "prediction": "Aggressive"
+                    }
+                  },
+                  "right": {
+                    "isLeaf": false,
+                    "featureIdx": 0,
+                    "threshold": 34,
+                    "left": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    },
+                    "right": {
+                      "isLeaf": true,
+                      "prediction": "Aggressive"
+                    }
+                  }
+                },
+                "right": {
+                  "isLeaf": true,
+                  "prediction": "Aggressive"
+                }
+              },
+              "right": {
+                "isLeaf": true,
+                "prediction": "Aggressive"
+              }
+            },
+            "right": {
+              "isLeaf": true,
+              "prediction": "Aggressive"
+            }
+          },
+          "right": {
+            "isLeaf": false,
+            "featureIdx": 8,
+            "threshold": 99.78521247965502,
+            "left": {
+              "isLeaf": false,
+              "featureIdx": 4,
+              "threshold": 26,
+              "left": {
+                "isLeaf": false,
+                "featureIdx": 9,
+                "threshold": 83.83909245579586,
+                "left": {
+                  "isLeaf": false,
+                  "featureIdx": 1,
+                  "threshold": 27088,
+                  "left": {
+                    "isLeaf": false,
+                    "featureIdx": 1,
+                    "threshold": 26957,
+                    "left": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    },
+                    "right": {
+                      "isLeaf": true,
+                      "prediction": "Conservative"
+                    }
+                  },
+                  "right": {
+                    "isLeaf": false,
+                    "featureIdx": 2,
+                    "threshold": 10.012521772716498,
+                    "left": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    },
+                    "right": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    }
+                  }
+                },
+                "right": {
+                  "isLeaf": false,
+                  "featureIdx": 3,
+                  "threshold": 72,
+                  "left": {
+                    "isLeaf": false,
+                    "featureIdx": 9,
+                    "threshold": 83.85322217055678,
+                    "left": {
+                      "isLeaf": true,
+                      "prediction": "Conservative"
+                    },
+                    "right": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    }
+                  },
+                  "right": {
+                    "isLeaf": false,
+                    "featureIdx": 1,
+                    "threshold": 85852,
+                    "left": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    },
+                    "right": {
+                      "isLeaf": true,
+                      "prediction": "Aggressive"
+                    }
+                  }
+                }
+              },
+              "right": {
+                "isLeaf": false,
+                "featureIdx": 2,
+                "threshold": 82.50672503899172,
+                "left": {
+                  "isLeaf": false,
+                  "featureIdx": 1,
+                  "threshold": 130987,
+                  "left": {
+                    "isLeaf": true,
+                    "prediction": "Moderate"
+                  },
+                  "right": {
+                    "isLeaf": false,
+                    "featureIdx": 1,
+                    "threshold": 166895,
+                    "left": {
+                      "isLeaf": true,
+                      "prediction": "Aggressive"
+                    },
+                    "right": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    }
+                  }
+                },
+                "right": {
+                  "isLeaf": true,
+                  "prediction": "Aggressive"
+                }
+              }
+            },
+            "right": {
+              "isLeaf": true,
+              "prediction": "Conservative"
+            }
+          }
+        },
+        "right": {
+          "isLeaf": false,
+          "featureIdx": 9,
+          "threshold": 63.17254228109046,
+          "left": {
+            "isLeaf": false,
+            "featureIdx": 3,
+            "threshold": 78,
+            "left": {
+              "isLeaf": false,
+              "featureIdx": 6,
+              "threshold": 4,
+              "left": {
+                "isLeaf": false,
+                "featureIdx": 3,
+                "threshold": 5,
+                "left": {
+                  "isLeaf": false,
+                  "featureIdx": 2,
+                  "threshold": 10.84906543829003,
+                  "left": {
+                    "isLeaf": true,
+                    "prediction": "Conservative"
+                  },
+                  "right": {
+                    "isLeaf": true,
+                    "prediction": "Moderate"
+                  }
+                },
+                "right": {
+                  "isLeaf": true,
+                  "prediction": "Moderate"
+                }
+              },
+              "right": {
+                "isLeaf": false,
+                "featureIdx": 4,
+                "threshold": 20,
+                "left": {
+                  "isLeaf": false,
+                  "featureIdx": 0,
+                  "threshold": 48,
+                  "left": {
+                    "isLeaf": true,
+                    "prediction": "Moderate"
+                  },
+                  "right": {
+                    "isLeaf": true,
+                    "prediction": "Aggressive"
+                  }
+                },
+                "right": {
+                  "isLeaf": true,
+                  "prediction": "Aggressive"
+                }
+              }
+            },
+            "right": {
+              "isLeaf": false,
+              "featureIdx": 1,
+              "threshold": 102478,
+              "left": {
+                "isLeaf": true,
+                "prediction": "Moderate"
+              },
+              "right": {
+                "isLeaf": false,
+                "featureIdx": 1,
+                "threshold": 192212,
+                "left": {
+                  "isLeaf": true,
+                  "prediction": "Aggressive"
+                },
+                "right": {
+                  "isLeaf": true,
+                  "prediction": "Moderate"
+                }
+              }
+            }
+          },
+          "right": {
+            "isLeaf": false,
+            "featureIdx": 8,
+            "threshold": 61.75744000427375,
+            "left": {
+              "isLeaf": false,
+              "featureIdx": 3,
+              "threshold": 39,
+              "left": {
+                "isLeaf": false,
+                "featureIdx": 0,
+                "threshold": 59,
+                "left": {
+                  "isLeaf": true,
+                  "prediction": "Moderate"
+                },
+                "right": {
+                  "isLeaf": true,
+                  "prediction": "Aggressive"
+                }
+              },
+              "right": {
+                "isLeaf": false,
+                "featureIdx": 0,
+                "threshold": 22,
+                "left": {
+                  "isLeaf": false,
+                  "featureIdx": 2,
+                  "threshold": 50.62995756188988,
+                  "left": {
+                    "isLeaf": true,
+                    "prediction": "Moderate"
+                  },
+                  "right": {
+                    "isLeaf": true,
+                    "prediction": "Aggressive"
+                  }
+                },
+                "right": {
+                  "isLeaf": true,
+                  "prediction": "Aggressive"
+                }
+              }
+            },
+            "right": {
+              "isLeaf": false,
+              "featureIdx": 0,
+              "threshold": 66,
+              "left": {
+                "isLeaf": false,
+                "featureIdx": 2,
+                "threshold": 24.179900013947364,
+                "left": {
+                  "isLeaf": true,
+                  "prediction": "Conservative"
+                },
+                "right": {
+                  "isLeaf": true,
+                  "prediction": "Moderate"
+                }
+              },
+              "right": {
+                "isLeaf": true,
+                "prediction": "Aggressive"
+              }
+            }
+          }
+        }
+      },
+      "right": {
+        "isLeaf": false,
+        "featureIdx": 2,
+        "threshold": 78.73426735024493,
+        "left": {
+          "isLeaf": false,
+          "featureIdx": 3,
+          "threshold": 46,
+          "left": {
+            "isLeaf": false,
+            "featureIdx": 8,
+            "threshold": 4.981065487035319,
+            "left": {
+              "isLeaf": false,
+              "featureIdx": 0,
+              "threshold": 38,
+              "left": {
+                "isLeaf": true,
+                "prediction": "Aggressive"
+              },
+              "right": {
+                "isLeaf": true,
+                "prediction": "Moderate"
+              }
+            },
+            "right": {
+              "isLeaf": false,
+              "featureIdx": 2,
+              "threshold": 68.26472479496192,
+              "left": {
+                "isLeaf": false,
+                "featureIdx": 0,
+                "threshold": 67,
+                "left": {
+                  "isLeaf": true,
+                  "prediction": "Moderate"
+                },
+                "right": {
+                  "isLeaf": false,
+                  "featureIdx": 1,
+                  "threshold": 125550,
+                  "left": {
+                    "isLeaf": true,
+                    "prediction": "Moderate"
+                  },
+                  "right": {
+                    "isLeaf": true,
+                    "prediction": "Aggressive"
+                  }
+                }
+              },
+              "right": {
+                "isLeaf": false,
+                "featureIdx": 5,
+                "threshold": 67.54938742599875,
+                "left": {
+                  "isLeaf": false,
+                  "featureIdx": 7,
+                  "threshold": 79.53326893906096,
+                  "left": {
+                    "isLeaf": true,
+                    "prediction": "Moderate"
+                  },
+                  "right": {
+                    "isLeaf": true,
+                    "prediction": "Aggressive"
+                  }
+                },
+                "right": {
+                  "isLeaf": true,
+                  "prediction": "Aggressive"
+                }
+              }
+            }
+          },
+          "right": {
+            "isLeaf": false,
+            "featureIdx": 5,
+            "threshold": 74.72389933452315,
+            "left": {
+              "isLeaf": false,
+              "featureIdx": 9,
+              "threshold": 77.70038680506876,
+              "left": {
+                "isLeaf": false,
+                "featureIdx": 3,
+                "threshold": 85,
+                "left": {
+                  "isLeaf": false,
+                  "featureIdx": 0,
+                  "threshold": 54,
+                  "left": {
+                    "isLeaf": true,
+                    "prediction": "Moderate"
+                  },
+                  "right": {
+                    "isLeaf": false,
+                    "featureIdx": 6,
+                    "threshold": 3,
+                    "left": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    },
+                    "right": {
+                      "isLeaf": true,
+                      "prediction": "Aggressive"
+                    }
+                  }
+                },
+                "right": {
+                  "isLeaf": false,
+                  "featureIdx": 1,
+                  "threshold": 85989,
+                  "left": {
+                    "isLeaf": true,
+                    "prediction": "Moderate"
+                  },
+                  "right": {
+                    "isLeaf": false,
+                    "featureIdx": 0,
+                    "threshold": 50,
+                    "left": {
+                      "isLeaf": true,
+                      "prediction": "Aggressive"
+                    },
+                    "right": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    }
+                  }
+                }
+              },
+              "right": {
+                "isLeaf": true,
+                "prediction": "Aggressive"
+              }
+            },
+            "right": {
+              "isLeaf": false,
+              "featureIdx": 1,
+              "threshold": 64971,
+              "left": {
+                "isLeaf": false,
+                "featureIdx": 3,
+                "threshold": 68,
+                "left": {
+                  "isLeaf": true,
+                  "prediction": "Moderate"
+                },
+                "right": {
+                  "isLeaf": true,
+                  "prediction": "Aggressive"
+                }
+              },
+              "right": {
+                "isLeaf": true,
+                "prediction": "Aggressive"
+              }
+            }
+          }
+        },
+        "right": {
+          "isLeaf": false,
+          "featureIdx": 7,
+          "threshold": 28.78365879080804,
+          "left": {
+            "isLeaf": false,
+            "featureIdx": 9,
+            "threshold": 58.14418975239133,
+            "left": {
+              "isLeaf": true,
+              "prediction": "Moderate"
+            },
+            "right": {
+              "isLeaf": false,
+              "featureIdx": 1,
+              "threshold": 48605,
+              "left": {
+                "isLeaf": true,
+                "prediction": "Moderate"
+              },
+              "right": {
+                "isLeaf": true,
+                "prediction": "Aggressive"
+              }
+            }
+          },
+          "right": {
+            "isLeaf": false,
+            "featureIdx": 1,
+            "threshold": 42070,
+            "left": {
+              "isLeaf": true,
+              "prediction": "Moderate"
+            },
+            "right": {
+              "isLeaf": false,
+              "featureIdx": 3,
+              "threshold": 36,
+              "left": {
+                "isLeaf": false,
+                "featureIdx": 5,
+                "threshold": 34.782526930327926,
+                "left": {
+                  "isLeaf": false,
+                  "featureIdx": 5,
+                  "threshold": 21.034418497526254,
+                  "left": {
+                    "isLeaf": true,
+                    "prediction": "Aggressive"
+                  },
+                  "right": {
+                    "isLeaf": true,
+                    "prediction": "Moderate"
+                  }
+                },
+                "right": {
+                  "isLeaf": true,
+                  "prediction": "Aggressive"
+                }
+              },
+              "right": {
+                "isLeaf": true,
+                "prediction": "Aggressive"
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "isLeaf": false,
+      "featureIdx": 4,
+      "threshold": 34,
+      "left": {
+        "isLeaf": false,
+        "featureIdx": 3,
+        "threshold": 62,
+        "left": {
+          "isLeaf": false,
+          "featureIdx": 7,
+          "threshold": 66.73062490767883,
+          "left": {
+            "isLeaf": false,
+            "featureIdx": 2,
+            "threshold": 12.362786164088547,
+            "left": {
+              "isLeaf": false,
+              "featureIdx": 1,
+              "threshold": 63609,
+              "left": {
+                "isLeaf": false,
+                "featureIdx": 0,
+                "threshold": 32,
+                "left": {
+                  "isLeaf": true,
+                  "prediction": "Conservative"
+                },
+                "right": {
+                  "isLeaf": false,
+                  "featureIdx": 1,
+                  "threshold": 26394,
+                  "left": {
+                    "isLeaf": true,
+                    "prediction": "Conservative"
+                  },
+                  "right": {
+                    "isLeaf": true,
+                    "prediction": "Moderate"
+                  }
+                }
+              },
+              "right": {
+                "isLeaf": false,
+                "featureIdx": 8,
+                "threshold": 83.67878985552493,
+                "left": {
+                  "isLeaf": true,
+                  "prediction": "Moderate"
+                },
+                "right": {
+                  "isLeaf": false,
+                  "featureIdx": 2,
+                  "threshold": 1.5134741579287736,
+                  "left": {
+                    "isLeaf": true,
+                    "prediction": "Conservative"
+                  },
+                  "right": {
+                    "isLeaf": true,
+                    "prediction": "Moderate"
+                  }
+                }
+              }
+            },
+            "right": {
+              "isLeaf": false,
+              "featureIdx": 1,
+              "threshold": 175491,
+              "left": {
+                "isLeaf": false,
+                "featureIdx": 4,
+                "threshold": 1,
+                "left": {
+                  "isLeaf": false,
+                  "featureIdx": 5,
+                  "threshold": 22.951845532021654,
+                  "left": {
+                    "isLeaf": true,
+                    "prediction": "Moderate"
+                  },
+                  "right": {
+                    "isLeaf": false,
+                    "featureIdx": 1,
+                    "threshold": 106406,
+                    "left": {
+                      "isLeaf": true,
+                      "prediction": "Conservative"
+                    },
+                    "right": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    }
+                  }
+                },
+                "right": {
+                  "isLeaf": false,
+                  "featureIdx": 8,
+                  "threshold": 3.9800181129354684,
+                  "left": {
+                    "isLeaf": false,
+                    "featureIdx": 0,
+                    "threshold": 54,
+                    "left": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    },
+                    "right": {
+                      "isLeaf": true,
+                      "prediction": "Aggressive"
+                    }
+                  },
+                  "right": {
+                    "isLeaf": false,
+                    "featureIdx": 4,
+                    "threshold": 33,
+                    "left": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    },
+                    "right": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    }
+                  }
+                }
+              },
+              "right": {
+                "isLeaf": false,
+                "featureIdx": 1,
+                "threshold": 176396,
+                "left": {
+                  "isLeaf": false,
+                  "featureIdx": 0,
+                  "threshold": 33,
+                  "left": {
+                    "isLeaf": true,
+                    "prediction": "Moderate"
+                  },
+                  "right": {
+                    "isLeaf": true,
+                    "prediction": "Aggressive"
+                  }
+                },
+                "right": {
+                  "isLeaf": false,
+                  "featureIdx": 5,
+                  "threshold": 85.63985440062937,
+                  "left": {
+                    "isLeaf": false,
+                    "featureIdx": 9,
+                    "threshold": 91.8141985911091,
+                    "left": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    },
+                    "right": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    }
+                  },
+                  "right": {
+                    "isLeaf": false,
+                    "featureIdx": 3,
+                    "threshold": 22,
+                    "left": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    },
+                    "right": {
+                      "isLeaf": true,
+                      "prediction": "Aggressive"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "right": {
+            "isLeaf": false,
+            "featureIdx": 5,
+            "threshold": 64.00062143282585,
+            "left": {
+              "isLeaf": false,
+              "featureIdx": 9,
+              "threshold": 57.90425822370655,
+              "left": {
+                "isLeaf": true,
+                "prediction": "Moderate"
+              },
+              "right": {
+                "isLeaf": false,
+                "featureIdx": 6,
+                "threshold": 4,
+                "left": {
+                  "isLeaf": false,
+                  "featureIdx": 9,
+                  "threshold": 58.19745074302081,
+                  "left": {
+                    "isLeaf": true,
+                    "prediction": "Aggressive"
+                  },
+                  "right": {
+                    "isLeaf": true,
+                    "prediction": "Moderate"
+                  }
+                },
+                "right": {
+                  "isLeaf": true,
+                  "prediction": "Aggressive"
+                }
+              }
+            },
+            "right": {
+              "isLeaf": false,
+              "featureIdx": 2,
+              "threshold": 57.79519939599853,
+              "left": {
+                "isLeaf": false,
+                "featureIdx": 9,
+                "threshold": 91.92507571322663,
+                "left": {
+                  "isLeaf": false,
+                  "featureIdx": 0,
+                  "threshold": 66,
+                  "left": {
+                    "isLeaf": false,
+                    "featureIdx": 7,
+                    "threshold": 67.46610538887745,
+                    "left": {
+                      "isLeaf": true,
+                      "prediction": "Aggressive"
+                    },
+                    "right": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    }
+                  },
+                  "right": {
+                    "isLeaf": true,
+                    "prediction": "Aggressive"
+                  }
+                },
+                "right": {
+                  "isLeaf": true,
+                  "prediction": "Aggressive"
+                }
+              },
+              "right": {
+                "isLeaf": false,
+                "featureIdx": 4,
+                "threshold": 12,
+                "left": {
+                  "isLeaf": true,
+                  "prediction": "Moderate"
+                },
+                "right": {
+                  "isLeaf": false,
+                  "featureIdx": 1,
+                  "threshold": 40871,
+                  "left": {
+                    "isLeaf": true,
+                    "prediction": "Moderate"
+                  },
+                  "right": {
+                    "isLeaf": false,
+                    "featureIdx": 6,
+                    "threshold": 1,
+                    "left": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    },
+                    "right": {
+                      "isLeaf": true,
+                      "prediction": "Aggressive"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "right": {
+          "isLeaf": false,
+          "featureIdx": 9,
+          "threshold": 57.19381350688626,
+          "left": {
+            "isLeaf": false,
+            "featureIdx": 1,
+            "threshold": 127493,
+            "left": {
+              "isLeaf": false,
+              "featureIdx": 3,
+              "threshold": 98,
+              "left": {
+                "isLeaf": false,
+                "featureIdx": 5,
+                "threshold": 89.97261064174155,
+                "left": {
+                  "isLeaf": false,
+                  "featureIdx": 2,
+                  "threshold": 84.15140200715187,
+                  "left": {
+                    "isLeaf": true,
+                    "prediction": "Moderate"
+                  },
+                  "right": {
+                    "isLeaf": false,
+                    "featureIdx": 0,
+                    "threshold": 47,
+                    "left": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    },
+                    "right": {
+                      "isLeaf": true,
+                      "prediction": "Aggressive"
+                    }
+                  }
+                },
+                "right": {
+                  "isLeaf": false,
+                  "featureIdx": 1,
+                  "threshold": 112184,
+                  "left": {
+                    "isLeaf": true,
+                    "prediction": "Moderate"
+                  },
+                  "right": {
+                    "isLeaf": true,
+                    "prediction": "Aggressive"
+                  }
+                }
+              },
+              "right": {
+                "isLeaf": false,
+                "featureIdx": 0,
+                "threshold": 46,
+                "left": {
+                  "isLeaf": true,
+                  "prediction": "Moderate"
+                },
+                "right": {
+                  "isLeaf": true,
+                  "prediction": "Aggressive"
+                }
+              }
+            },
+            "right": {
+              "isLeaf": false,
+              "featureIdx": 8,
+              "threshold": 34.716420956255554,
+              "left": {
+                "isLeaf": false,
+                "featureIdx": 6,
+                "threshold": 2,
+                "left": {
+                  "isLeaf": false,
+                  "featureIdx": 2,
+                  "threshold": 45.93309879734151,
+                  "left": {
+                    "isLeaf": true,
+                    "prediction": "Moderate"
+                  },
+                  "right": {
+                    "isLeaf": true,
+                    "prediction": "Aggressive"
+                  }
+                },
+                "right": {
+                  "isLeaf": false,
+                  "featureIdx": 5,
+                  "threshold": 2.493581928609667,
+                  "left": {
+                    "isLeaf": true,
+                    "prediction": "Moderate"
+                  },
+                  "right": {
+                    "isLeaf": false,
+                    "featureIdx": 0,
+                    "threshold": 21,
+                    "left": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    },
+                    "right": {
+                      "isLeaf": true,
+                      "prediction": "Aggressive"
+                    }
+                  }
+                }
+              },
+              "right": {
+                "isLeaf": false,
+                "featureIdx": 4,
+                "threshold": 33,
+                "left": {
+                  "isLeaf": false,
+                  "featureIdx": 0,
+                  "threshold": 67,
+                  "left": {
+                    "isLeaf": false,
+                    "featureIdx": 2,
+                    "threshold": 93.77051309986642,
+                    "left": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    },
+                    "right": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    }
+                  },
+                  "right": {
+                    "isLeaf": true,
+                    "prediction": "Aggressive"
+                  }
+                },
+                "right": {
+                  "isLeaf": true,
+                  "prediction": "Aggressive"
+                }
+              }
+            }
+          },
+          "right": {
+            "isLeaf": false,
+            "featureIdx": 4,
+            "threshold": 12,
+            "left": {
+              "isLeaf": false,
+              "featureIdx": 0,
+              "threshold": 59,
+              "left": {
+                "isLeaf": false,
+                "featureIdx": 1,
+                "threshold": 176833,
+                "left": {
+                  "isLeaf": true,
+                  "prediction": "Moderate"
+                },
+                "right": {
+                  "isLeaf": true,
+                  "prediction": "Aggressive"
+                }
+              },
+              "right": {
+                "isLeaf": false,
+                "featureIdx": 1,
+                "threshold": 61618,
+                "left": {
+                  "isLeaf": true,
+                  "prediction": "Moderate"
+                },
+                "right": {
+                  "isLeaf": true,
+                  "prediction": "Aggressive"
+                }
+              }
+            },
+            "right": {
+              "isLeaf": false,
+              "featureIdx": 0,
+              "threshold": 30,
+              "left": {
+                "isLeaf": false,
+                "featureIdx": 3,
+                "threshold": 90,
+                "left": {
+                  "isLeaf": false,
+                  "featureIdx": 7,
+                  "threshold": 72.36905305592262,
+                  "left": {
+                    "isLeaf": true,
+                    "prediction": "Moderate"
+                  },
+                  "right": {
+                    "isLeaf": true,
+                    "prediction": "Aggressive"
+                  }
+                },
+                "right": {
+                  "isLeaf": false,
+                  "featureIdx": 4,
+                  "threshold": 13,
+                  "left": {
+                    "isLeaf": true,
+                    "prediction": "Moderate"
+                  },
+                  "right": {
+                    "isLeaf": true,
+                    "prediction": "Aggressive"
+                  }
+                }
+              },
+              "right": {
+                "isLeaf": false,
+                "featureIdx": 2,
+                "threshold": 35.64368832727276,
+                "left": {
+                  "isLeaf": false,
+                  "featureIdx": 5,
+                  "threshold": 88.4861557808895,
+                  "left": {
+                    "isLeaf": false,
+                    "featureIdx": 1,
+                    "threshold": 32578,
+                    "left": {
+                      "isLeaf": true,
+                      "prediction": "Aggressive"
+                    },
+                    "right": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    }
+                  },
+                  "right": {
+                    "isLeaf": true,
+                    "prediction": "Aggressive"
+                  }
+                },
+                "right": {
+                  "isLeaf": false,
+                  "featureIdx": 1,
+                  "threshold": 62324,
+                  "left": {
+                    "isLeaf": true,
+                    "prediction": "Moderate"
+                  },
+                  "right": {
+                    "isLeaf": false,
+                    "featureIdx": 4,
+                    "threshold": 33,
+                    "left": {
+                      "isLeaf": true,
+                      "prediction": "Aggressive"
+                    },
+                    "right": {
+                      "isLeaf": true,
+                      "prediction": "Aggressive"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "right": {
+        "isLeaf": false,
+        "featureIdx": 3,
+        "threshold": 36,
+        "left": {
+          "isLeaf": false,
+          "featureIdx": 7,
+          "threshold": 47.43362010035306,
+          "left": {
+            "isLeaf": false,
+            "featureIdx": 5,
+            "threshold": 75.11459917862624,
+            "left": {
+              "isLeaf": true,
+              "prediction": "Moderate"
+            },
+            "right": {
+              "isLeaf": true,
+              "prediction": "Aggressive"
+            }
+          },
+          "right": {
+            "isLeaf": false,
+            "featureIdx": 3,
+            "threshold": 14,
+            "left": {
+              "isLeaf": false,
+              "featureIdx": 8,
+              "threshold": 23.57061225024577,
+              "left": {
+                "isLeaf": true,
+                "prediction": "Aggressive"
+              },
+              "right": {
+                "isLeaf": true,
+                "prediction": "Moderate"
+              }
+            },
+            "right": {
+              "isLeaf": false,
+              "featureIdx": 0,
+              "threshold": 43,
+              "left": {
+                "isLeaf": true,
+                "prediction": "Moderate"
+              },
+              "right": {
+                "isLeaf": false,
+                "featureIdx": 1,
+                "threshold": 32234,
+                "left": {
+                  "isLeaf": true,
+                  "prediction": "Moderate"
+                },
+                "right": {
+                  "isLeaf": true,
+                  "prediction": "Aggressive"
+                }
+              }
+            }
+          }
+        },
+        "right": {
+          "isLeaf": false,
+          "featureIdx": 1,
+          "threshold": 74169,
+          "left": {
+            "isLeaf": false,
+            "featureIdx": 8,
+            "threshold": 42.6654983236425,
+            "left": {
+              "isLeaf": false,
+              "featureIdx": 1,
+              "threshold": 57054,
+              "left": {
+                "isLeaf": true,
+                "prediction": "Aggressive"
+              },
+              "right": {
+                "isLeaf": true,
+                "prediction": "Moderate"
+              }
+            },
+            "right": {
+              "isLeaf": false,
+              "featureIdx": 2,
+              "threshold": 51.862235825449396,
+              "left": {
+                "isLeaf": true,
+                "prediction": "Moderate"
+              },
+              "right": {
+                "isLeaf": true,
+                "prediction": "Aggressive"
+              }
+            }
+          },
+          "right": {
+            "isLeaf": false,
+            "featureIdx": 9,
+            "threshold": 10.378602034144869,
+            "left": {
+              "isLeaf": true,
+              "prediction": "Moderate"
+            },
+            "right": {
+              "isLeaf": false,
+              "featureIdx": 7,
+              "threshold": 2.9468170223923007,
+              "left": {
+                "isLeaf": true,
+                "prediction": "Moderate"
+              },
+              "right": {
+                "isLeaf": false,
+                "featureIdx": 8,
+                "threshold": 87.9218191530327,
+                "left": {
+                  "isLeaf": true,
+                  "prediction": "Aggressive"
+                },
+                "right": {
+                  "isLeaf": false,
+                  "featureIdx": 2,
+                  "threshold": 51.09235320595338,
+                  "left": {
+                    "isLeaf": true,
+                    "prediction": "Moderate"
+                  },
+                  "right": {
+                    "isLeaf": true,
+                    "prediction": "Aggressive"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "isLeaf": false,
+      "featureIdx": 4,
+      "threshold": 32,
+      "left": {
+        "isLeaf": false,
+        "featureIdx": 6,
+        "threshold": 3,
+        "left": {
+          "isLeaf": false,
+          "featureIdx": 7,
+          "threshold": 82.77816441349559,
+          "left": {
+            "isLeaf": false,
+            "featureIdx": 8,
+            "threshold": 99.7579999186234,
+            "left": {
+              "isLeaf": false,
+              "featureIdx": 8,
+              "threshold": 0.6589393589322423,
+              "left": {
+                "isLeaf": true,
+                "prediction": "Aggressive"
+              },
+              "right": {
+                "isLeaf": false,
+                "featureIdx": 4,
+                "threshold": 1,
+                "left": {
+                  "isLeaf": false,
+                  "featureIdx": 7,
+                  "threshold": 8.073594070072154,
+                  "left": {
+                    "isLeaf": true,
+                    "prediction": "Conservative"
+                  },
+                  "right": {
+                    "isLeaf": true,
+                    "prediction": "Moderate"
+                  }
+                },
+                "right": {
+                  "isLeaf": false,
+                  "featureIdx": 3,
+                  "threshold": 60,
+                  "left": {
+                    "isLeaf": false,
+                    "featureIdx": 2,
+                    "threshold": 12.362786164088547,
+                    "left": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    },
+                    "right": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    }
+                  },
+                  "right": {
+                    "isLeaf": false,
+                    "featureIdx": 4,
+                    "threshold": 19,
+                    "left": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    },
+                    "right": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    }
+                  }
+                }
+              }
+            },
+            "right": {
+              "isLeaf": true,
+              "prediction": "Conservative"
+            }
+          },
+          "right": {
+            "isLeaf": false,
+            "featureIdx": 3,
+            "threshold": 78,
+            "left": {
+              "isLeaf": false,
+              "featureIdx": 1,
+              "threshold": 184865,
+              "left": {
+                "isLeaf": false,
+                "featureIdx": 0,
+                "threshold": 23,
+                "left": {
+                  "isLeaf": false,
+                  "featureIdx": 2,
+                  "threshold": 24.179900013947364,
+                  "left": {
+                    "isLeaf": true,
+                    "prediction": "Conservative"
+                  },
+                  "right": {
+                    "isLeaf": true,
+                    "prediction": "Moderate"
+                  }
+                },
+                "right": {
+                  "isLeaf": false,
+                  "featureIdx": 8,
+                  "threshold": 10.643382893573428,
+                  "left": {
+                    "isLeaf": false,
+                    "featureIdx": 0,
+                    "threshold": 25,
+                    "left": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    },
+                    "right": {
+                      "isLeaf": true,
+                      "prediction": "Aggressive"
+                    }
+                  },
+                  "right": {
+                    "isLeaf": false,
+                    "featureIdx": 9,
+                    "threshold": 58.346004628555484,
+                    "left": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    },
+                    "right": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    }
+                  }
+                }
+              },
+              "right": {
+                "isLeaf": false,
+                "featureIdx": 2,
+                "threshold": 17.306486752831685,
+                "left": {
+                  "isLeaf": true,
+                  "prediction": "Moderate"
+                },
+                "right": {
+                  "isLeaf": false,
+                  "featureIdx": 0,
+                  "threshold": 64,
+                  "left": {
+                    "isLeaf": true,
+                    "prediction": "Aggressive"
+                  },
+                  "right": {
+                    "isLeaf": true,
+                    "prediction": "Moderate"
+                  }
+                }
+              }
+            },
+            "right": {
+              "isLeaf": false,
+              "featureIdx": 0,
+              "threshold": 22,
+              "left": {
+                "isLeaf": true,
+                "prediction": "Moderate"
+              },
+              "right": {
+                "isLeaf": false,
+                "featureIdx": 3,
+                "threshold": 93,
+                "left": {
+                  "isLeaf": true,
+                  "prediction": "Aggressive"
+                },
+                "right": {
+                  "isLeaf": true,
+                  "prediction": "Moderate"
+                }
+              }
+            }
+          }
+        },
+        "right": {
+          "isLeaf": false,
+          "featureIdx": 9,
+          "threshold": 54.32715710744205,
+          "left": {
+            "isLeaf": false,
+            "featureIdx": 8,
+            "threshold": 30.797259279573687,
+            "left": {
+              "isLeaf": false,
+              "featureIdx": 3,
+              "threshold": 54,
+              "left": {
+                "isLeaf": false,
+                "featureIdx": 4,
+                "threshold": 3,
+                "left": {
+                  "isLeaf": false,
+                  "featureIdx": 0,
+                  "threshold": 21,
+                  "left": {
+                    "isLeaf": true,
+                    "prediction": "Moderate"
+                  },
+                  "right": {
+                    "isLeaf": true,
+                    "prediction": "Conservative"
+                  }
+                },
+                "right": {
+                  "isLeaf": false,
+                  "featureIdx": 4,
+                  "threshold": 27,
+                  "left": {
+                    "isLeaf": true,
+                    "prediction": "Moderate"
+                  },
+                  "right": {
+                    "isLeaf": true,
+                    "prediction": "Aggressive"
+                  }
+                }
+              },
+              "right": {
+                "isLeaf": false,
+                "featureIdx": 1,
+                "threshold": 76054,
+                "left": {
+                  "isLeaf": true,
+                  "prediction": "Moderate"
+                },
+                "right": {
+                  "isLeaf": false,
+                  "featureIdx": 7,
+                  "threshold": 46.57628168432852,
+                  "left": {
+                    "isLeaf": false,
+                    "featureIdx": 0,
+                    "threshold": 41,
+                    "left": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    },
+                    "right": {
+                      "isLeaf": true,
+                      "prediction": "Aggressive"
+                    }
+                  },
+                  "right": {
+                    "isLeaf": true,
+                    "prediction": "Aggressive"
+                  }
+                }
+              }
+            },
+            "right": {
+              "isLeaf": false,
+              "featureIdx": 5,
+              "threshold": 85.69882556206605,
+              "left": {
+                "isLeaf": false,
+                "featureIdx": 2,
+                "threshold": 2.920003980005026,
+                "left": {
+                  "isLeaf": false,
+                  "featureIdx": 1,
+                  "threshold": 117278,
+                  "left": {
+                    "isLeaf": true,
+                    "prediction": "Moderate"
+                  },
+                  "right": {
+                    "isLeaf": true,
+                    "prediction": "Conservative"
+                  }
+                },
+                "right": {
+                  "isLeaf": false,
+                  "featureIdx": 7,
+                  "threshold": 1.8580556296267092,
+                  "left": {
+                    "isLeaf": false,
+                    "featureIdx": 0,
+                    "threshold": 45,
+                    "left": {
+                      "isLeaf": true,
+                      "prediction": "Conservative"
+                    },
+                    "right": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    }
+                  },
+                  "right": {
+                    "isLeaf": false,
+                    "featureIdx": 9,
+                    "threshold": 50.257889971784465,
+                    "left": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    },
+                    "right": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    }
+                  }
+                }
+              },
+              "right": {
+                "isLeaf": false,
+                "featureIdx": 7,
+                "threshold": 48.64905180619419,
+                "left": {
+                  "isLeaf": true,
+                  "prediction": "Moderate"
+                },
+                "right": {
+                  "isLeaf": true,
+                  "prediction": "Aggressive"
+                }
+              }
+            }
+          },
+          "right": {
+            "isLeaf": false,
+            "featureIdx": 3,
+            "threshold": 41,
+            "left": {
+              "isLeaf": false,
+              "featureIdx": 0,
+              "threshold": 55,
+              "left": {
+                "isLeaf": false,
+                "featureIdx": 7,
+                "threshold": 87.23992870900095,
+                "left": {
+                  "isLeaf": false,
+                  "featureIdx": 4,
+                  "threshold": 30,
+                  "left": {
+                    "isLeaf": true,
+                    "prediction": "Moderate"
+                  },
+                  "right": {
+                    "isLeaf": false,
+                    "featureIdx": 0,
+                    "threshold": 36,
+                    "left": {
+                      "isLeaf": true,
+                      "prediction": "Aggressive"
+                    },
+                    "right": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    }
+                  }
+                },
+                "right": {
+                  "isLeaf": true,
+                  "prediction": "Aggressive"
+                }
+              },
+              "right": {
+                "isLeaf": false,
+                "featureIdx": 9,
+                "threshold": 81.79001396381098,
+                "left": {
+                  "isLeaf": false,
+                  "featureIdx": 1,
+                  "threshold": 117887,
+                  "left": {
+                    "isLeaf": true,
+                    "prediction": "Aggressive"
+                  },
+                  "right": {
+                    "isLeaf": true,
+                    "prediction": "Moderate"
+                  }
+                },
+                "right": {
+                  "isLeaf": true,
+                  "prediction": "Aggressive"
+                }
+              }
+            },
+            "right": {
+              "isLeaf": false,
+              "featureIdx": 8,
+              "threshold": 62.01146412277914,
+              "left": {
+                "isLeaf": false,
+                "featureIdx": 7,
+                "threshold": 18.908577650598126,
+                "left": {
+                  "isLeaf": false,
+                  "featureIdx": 1,
+                  "threshold": 173054,
+                  "left": {
+                    "isLeaf": true,
+                    "prediction": "Moderate"
+                  },
+                  "right": {
+                    "isLeaf": true,
+                    "prediction": "Aggressive"
+                  }
+                },
+                "right": {
+                  "isLeaf": false,
+                  "featureIdx": 1,
+                  "threshold": 27691,
+                  "left": {
+                    "isLeaf": true,
+                    "prediction": "Moderate"
+                  },
+                  "right": {
+                    "isLeaf": false,
+                    "featureIdx": 2,
+                    "threshold": 4.768994414061534,
+                    "left": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    },
+                    "right": {
+                      "isLeaf": true,
+                      "prediction": "Aggressive"
+                    }
+                  }
+                }
+              },
+              "right": {
+                "isLeaf": false,
+                "featureIdx": 4,
+                "threshold": 24,
+                "left": {
+                  "isLeaf": false,
+                  "featureIdx": 5,
+                  "threshold": 86.71261909519234,
+                  "left": {
+                    "isLeaf": true,
+                    "prediction": "Moderate"
+                  },
+                  "right": {
+                    "isLeaf": true,
+                    "prediction": "Aggressive"
+                  }
+                },
+                "right": {
+                  "isLeaf": true,
+                  "prediction": "Aggressive"
+                }
+              }
+            }
+          }
+        }
+      },
+      "right": {
+        "isLeaf": false,
+        "featureIdx": 5,
+        "threshold": 79.9816793548531,
+        "left": {
+          "isLeaf": false,
+          "featureIdx": 2,
+          "threshold": 71.68621900886103,
+          "left": {
+            "isLeaf": false,
+            "featureIdx": 3,
+            "threshold": 90,
+            "left": {
+              "isLeaf": false,
+              "featureIdx": 9,
+              "threshold": 90.08724912125771,
+              "left": {
+                "isLeaf": false,
+                "featureIdx": 3,
+                "threshold": 73,
+                "left": {
+                  "isLeaf": false,
+                  "featureIdx": 8,
+                  "threshold": 95.82127424683331,
+                  "left": {
+                    "isLeaf": false,
+                    "featureIdx": 6,
+                    "threshold": 4,
+                    "left": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    },
+                    "right": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    }
+                  },
+                  "right": {
+                    "isLeaf": false,
+                    "featureIdx": 0,
+                    "threshold": 53,
+                    "left": {
+                      "isLeaf": true,
+                      "prediction": "Aggressive"
+                    },
+                    "right": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    }
+                  }
+                },
+                "right": {
+                  "isLeaf": false,
+                  "featureIdx": 6,
+                  "threshold": 4,
+                  "left": {
+                    "isLeaf": false,
+                    "featureIdx": 0,
+                    "threshold": 20,
+                    "left": {
+                      "isLeaf": true,
+                      "prediction": "Aggressive"
+                    },
+                    "right": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    }
+                  },
+                  "right": {
+                    "isLeaf": true,
+                    "prediction": "Aggressive"
+                  }
+                }
+              },
+              "right": {
+                "isLeaf": false,
+                "featureIdx": 0,
+                "threshold": 27,
+                "left": {
+                  "isLeaf": true,
+                  "prediction": "Moderate"
+                },
+                "right": {
+                  "isLeaf": true,
+                  "prediction": "Aggressive"
+                }
+              }
+            },
+            "right": {
+              "isLeaf": true,
+              "prediction": "Aggressive"
+            }
+          },
+          "right": {
+            "isLeaf": false,
+            "featureIdx": 7,
+            "threshold": 39.1595002299042,
+            "left": {
+              "isLeaf": false,
+              "featureIdx": 1,
+              "threshold": 22292,
+              "left": {
+                "isLeaf": true,
+                "prediction": "Aggressive"
+              },
+              "right": {
+                "isLeaf": false,
+                "featureIdx": 5,
+                "threshold": 17.829885023369975,
+                "left": {
+                  "isLeaf": true,
+                  "prediction": "Aggressive"
+                },
+                "right": {
+                  "isLeaf": true,
+                  "prediction": "Moderate"
+                }
+              }
+            },
+            "right": {
+              "isLeaf": false,
+              "featureIdx": 1,
+              "threshold": 42070,
+              "left": {
+                "isLeaf": true,
+                "prediction": "Moderate"
+              },
+              "right": {
+                "isLeaf": false,
+                "featureIdx": 5,
+                "threshold": 9.571391516458583,
+                "left": {
+                  "isLeaf": true,
+                  "prediction": "Moderate"
+                },
+                "right": {
+                  "isLeaf": true,
+                  "prediction": "Aggressive"
+                }
+              }
+            }
+          }
+        },
+        "right": {
+          "isLeaf": false,
+          "featureIdx": 3,
+          "threshold": 32,
+          "left": {
+            "isLeaf": false,
+            "featureIdx": 2,
+            "threshold": 42.26967974804994,
+            "left": {
+              "isLeaf": true,
+              "prediction": "Moderate"
+            },
+            "right": {
+              "isLeaf": true,
+              "prediction": "Aggressive"
+            }
+          },
+          "right": {
+            "isLeaf": false,
+            "featureIdx": 8,
+            "threshold": 66.71160728259528,
+            "left": {
+              "isLeaf": true,
+              "prediction": "Aggressive"
+            },
+            "right": {
+              "isLeaf": true,
+              "prediction": "Moderate"
+            }
+          }
+        }
+      }
+    },
+    {
+      "isLeaf": false,
+      "featureIdx": 4,
+      "threshold": 32,
+      "left": {
+        "isLeaf": false,
+        "featureIdx": 7,
+        "threshold": 84.68146511972301,
+        "left": {
+          "isLeaf": false,
+          "featureIdx": 8,
+          "threshold": 5.873534007029213,
+          "left": {
+            "isLeaf": false,
+            "featureIdx": 4,
+            "threshold": 16,
+            "left": {
+              "isLeaf": false,
+              "featureIdx": 0,
+              "threshold": 62,
+              "left": {
+                "isLeaf": false,
+                "featureIdx": 8,
+                "threshold": 0.2778822237859524,
+                "left": {
+                  "isLeaf": true,
+                  "prediction": "Aggressive"
+                },
+                "right": {
+                  "isLeaf": true,
+                  "prediction": "Moderate"
+                }
+              },
+              "right": {
+                "isLeaf": true,
+                "prediction": "Aggressive"
+              }
+            },
+            "right": {
+              "isLeaf": false,
+              "featureIdx": 0,
+              "threshold": 61,
+              "left": {
+                "isLeaf": false,
+                "featureIdx": 4,
+                "threshold": 31,
+                "left": {
+                  "isLeaf": false,
+                  "featureIdx": 2,
+                  "threshold": 7.6666521947782895,
+                  "left": {
+                    "isLeaf": false,
+                    "featureIdx": 0,
+                    "threshold": 23,
+                    "left": {
+                      "isLeaf": true,
+                      "prediction": "Aggressive"
+                    },
+                    "right": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    }
+                  },
+                  "right": {
+                    "isLeaf": true,
+                    "prediction": "Aggressive"
+                  }
+                },
+                "right": {
+                  "isLeaf": true,
+                  "prediction": "Moderate"
+                }
+              },
+              "right": {
+                "isLeaf": true,
+                "prediction": "Moderate"
+              }
+            }
+          },
+          "right": {
+            "isLeaf": false,
+            "featureIdx": 1,
+            "threshold": 27088,
+            "left": {
+              "isLeaf": false,
+              "featureIdx": 3,
+              "threshold": 26,
+              "left": {
+                "isLeaf": false,
+                "featureIdx": 2,
+                "threshold": 46.22583760589794,
+                "left": {
+                  "isLeaf": true,
+                  "prediction": "Conservative"
+                },
+                "right": {
+                  "isLeaf": true,
+                  "prediction": "Moderate"
+                }
+              },
+              "right": {
+                "isLeaf": true,
+                "prediction": "Moderate"
+              }
+            },
+            "right": {
+              "isLeaf": false,
+              "featureIdx": 4,
+              "threshold": 15,
+              "left": {
+                "isLeaf": false,
+                "featureIdx": 2,
+                "threshold": 2.920003980005026,
+                "left": {
+                  "isLeaf": false,
+                  "featureIdx": 7,
+                  "threshold": 23.680844727811,
+                  "left": {
+                    "isLeaf": true,
+                    "prediction": "Conservative"
+                  },
+                  "right": {
+                    "isLeaf": true,
+                    "prediction": "Moderate"
+                  }
+                },
+                "right": {
+                  "isLeaf": false,
+                  "featureIdx": 8,
+                  "threshold": 98.77687793163965,
+                  "left": {
+                    "isLeaf": false,
+                    "featureIdx": 8,
+                    "threshold": 90.94308116954232,
+                    "left": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    },
+                    "right": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    }
+                  },
+                  "right": {
+                    "isLeaf": true,
+                    "prediction": "Conservative"
+                  }
+                }
+              },
+              "right": {
+                "isLeaf": false,
+                "featureIdx": 1,
+                "threshold": 204252,
+                "left": {
+                  "isLeaf": false,
+                  "featureIdx": 3,
+                  "threshold": 42,
+                  "left": {
+                    "isLeaf": false,
+                    "featureIdx": 1,
+                    "threshold": 31731,
+                    "left": {
+                      "isLeaf": true,
+                      "prediction": "Conservative"
+                    },
+                    "right": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    }
+                  },
+                  "right": {
+                    "isLeaf": false,
+                    "featureIdx": 2,
+                    "threshold": 70.11054181079419,
+                    "left": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    },
+                    "right": {
+                      "isLeaf": true,
+                      "prediction": "Aggressive"
+                    }
+                  }
+                },
+                "right": {
+                  "isLeaf": false,
+                  "featureIdx": 5,
+                  "threshold": 68.88740289782407,
+                  "left": {
+                    "isLeaf": false,
+                    "featureIdx": 2,
+                    "threshold": 65.6835874196005,
+                    "left": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    },
+                    "right": {
+                      "isLeaf": true,
+                      "prediction": "Aggressive"
+                    }
+                  },
+                  "right": {
+                    "isLeaf": false,
+                    "featureIdx": 1,
+                    "threshold": 215933,
+                    "left": {
+                      "isLeaf": true,
+                      "prediction": "Aggressive"
+                    },
+                    "right": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "right": {
+          "isLeaf": false,
+          "featureIdx": 3,
+          "threshold": 51,
+          "left": {
+            "isLeaf": false,
+            "featureIdx": 4,
+            "threshold": 28,
+            "left": {
+              "isLeaf": false,
+              "featureIdx": 5,
+              "threshold": 0.9834655423034411,
+              "left": {
+                "isLeaf": true,
+                "prediction": "Conservative"
+              },
+              "right": {
+                "isLeaf": true,
+                "prediction": "Moderate"
+              }
+            },
+            "right": {
+              "isLeaf": false,
+              "featureIdx": 6,
+              "threshold": 3,
+              "left": {
+                "isLeaf": true,
+                "prediction": "Moderate"
+              },
+              "right": {
+                "isLeaf": false,
+                "featureIdx": 0,
+                "threshold": 41,
+                "left": {
+                  "isLeaf": true,
+                  "prediction": "Aggressive"
+                },
+                "right": {
+                  "isLeaf": true,
+                  "prediction": "Moderate"
+                }
+              }
+            }
+          },
+          "right": {
+            "isLeaf": false,
+            "featureIdx": 9,
+            "threshold": 36.71249458108032,
+            "left": {
+              "isLeaf": false,
+              "featureIdx": 5,
+              "threshold": 78.70907049206863,
+              "left": {
+                "isLeaf": true,
+                "prediction": "Moderate"
+              },
+              "right": {
+                "isLeaf": true,
+                "prediction": "Aggressive"
+              }
+            },
+            "right": {
+              "isLeaf": false,
+              "featureIdx": 8,
+              "threshold": 72.09657363585073,
+              "left": {
+                "isLeaf": false,
+                "featureIdx": 2,
+                "threshold": 45.5601810533645,
+                "left": {
+                  "isLeaf": false,
+                  "featureIdx": 0,
+                  "threshold": 54,
+                  "left": {
+                    "isLeaf": false,
+                    "featureIdx": 2,
+                    "threshold": 12.632890847253343,
+                    "left": {
+                      "isLeaf": true,
+                      "prediction": "Aggressive"
+                    },
+                    "right": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    }
+                  },
+                  "right": {
+                    "isLeaf": true,
+                    "prediction": "Aggressive"
+                  }
+                },
+                "right": {
+                  "isLeaf": true,
+                  "prediction": "Aggressive"
+                }
+              },
+              "right": {
+                "isLeaf": true,
+                "prediction": "Moderate"
+              }
+            }
+          }
+        }
+      },
+      "right": {
+        "isLeaf": false,
+        "featureIdx": 3,
+        "threshold": 36,
+        "left": {
+          "isLeaf": false,
+          "featureIdx": 7,
+          "threshold": 86.13146393209689,
+          "left": {
+            "isLeaf": false,
+            "featureIdx": 8,
+            "threshold": 5.453691042845432,
+            "left": {
+              "isLeaf": true,
+              "prediction": "Aggressive"
+            },
+            "right": {
+              "isLeaf": false,
+              "featureIdx": 9,
+              "threshold": 1.8865636638961236,
+              "left": {
+                "isLeaf": true,
+                "prediction": "Aggressive"
+              },
+              "right": {
+                "isLeaf": false,
+                "featureIdx": 8,
+                "threshold": 23.57061225024577,
+                "left": {
+                  "isLeaf": false,
+                  "featureIdx": 7,
+                  "threshold": 51.35624325801786,
+                  "left": {
+                    "isLeaf": true,
+                    "prediction": "Moderate"
+                  },
+                  "right": {
+                    "isLeaf": false,
+                    "featureIdx": 1,
+                    "threshold": 135212,
+                    "left": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    },
+                    "right": {
+                      "isLeaf": true,
+                      "prediction": "Aggressive"
+                    }
+                  }
+                },
+                "right": {
+                  "isLeaf": true,
+                  "prediction": "Moderate"
+                }
+              }
+            }
+          },
+          "right": {
+            "isLeaf": false,
+            "featureIdx": 0,
+            "threshold": 20,
+            "left": {
+              "isLeaf": true,
+              "prediction": "Moderate"
+            },
+            "right": {
+              "isLeaf": true,
+              "prediction": "Aggressive"
+            }
+          }
+        },
+        "right": {
+          "isLeaf": false,
+          "featureIdx": 1,
+          "threshold": 74312,
+          "left": {
+            "isLeaf": false,
+            "featureIdx": 2,
+            "threshold": 69.40324395054573,
+            "left": {
+              "isLeaf": false,
+              "featureIdx": 5,
+              "threshold": 72.6560583443278,
+              "left": {
+                "isLeaf": false,
+                "featureIdx": 5,
+                "threshold": 0.7844378730551771,
+                "left": {
+                  "isLeaf": true,
+                  "prediction": "Aggressive"
+                },
+                "right": {
+                  "isLeaf": true,
+                  "prediction": "Moderate"
+                }
+              },
+              "right": {
+                "isLeaf": false,
+                "featureIdx": 0,
+                "threshold": 41,
+                "left": {
+                  "isLeaf": true,
+                  "prediction": "Moderate"
+                },
+                "right": {
+                  "isLeaf": true,
+                  "prediction": "Aggressive"
+                }
+              }
+            },
+            "right": {
+              "isLeaf": false,
+              "featureIdx": 1,
+              "threshold": 62984,
+              "left": {
+                "isLeaf": true,
+                "prediction": "Aggressive"
+              },
+              "right": {
+                "isLeaf": true,
+                "prediction": "Moderate"
+              }
+            }
+          },
+          "right": {
+            "isLeaf": false,
+            "featureIdx": 7,
+            "threshold": 29.75899483121689,
+            "left": {
+              "isLeaf": false,
+              "featureIdx": 9,
+              "threshold": 67.05125478293002,
+              "left": {
+                "isLeaf": false,
+                "featureIdx": 1,
+                "threshold": 77664,
+                "left": {
+                  "isLeaf": true,
+                  "prediction": "Aggressive"
+                },
+                "right": {
+                  "isLeaf": true,
+                  "prediction": "Moderate"
+                }
+              },
+              "right": {
+                "isLeaf": false,
+                "featureIdx": 2,
+                "threshold": 16.51848642771334,
+                "left": {
+                  "isLeaf": true,
+                  "prediction": "Moderate"
+                },
+                "right": {
+                  "isLeaf": true,
+                  "prediction": "Aggressive"
+                }
+              }
+            },
+            "right": {
+              "isLeaf": false,
+              "featureIdx": 2,
+              "threshold": 10.723878153203682,
+              "left": {
+                "isLeaf": false,
+                "featureIdx": 2,
+                "threshold": 0.6549875635005975,
+                "left": {
+                  "isLeaf": true,
+                  "prediction": "Aggressive"
+                },
+                "right": {
+                  "isLeaf": true,
+                  "prediction": "Moderate"
+                }
+              },
+              "right": {
+                "isLeaf": false,
+                "featureIdx": 0,
+                "threshold": 21,
+                "left": {
+                  "isLeaf": false,
+                  "featureIdx": 1,
+                  "threshold": 74825,
+                  "left": {
+                    "isLeaf": true,
+                    "prediction": "Aggressive"
+                  },
+                  "right": {
+                    "isLeaf": true,
+                    "prediction": "Moderate"
+                  }
+                },
+                "right": {
+                  "isLeaf": false,
+                  "featureIdx": 0,
+                  "threshold": 66,
+                  "left": {
+                    "isLeaf": false,
+                    "featureIdx": 8,
+                    "threshold": 88.63863199398807,
+                    "left": {
+                      "isLeaf": true,
+                      "prediction": "Aggressive"
+                    },
+                    "right": {
+                      "isLeaf": true,
+                      "prediction": "Aggressive"
+                    }
+                  },
+                  "right": {
+                    "isLeaf": true,
+                    "prediction": "Moderate"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "isLeaf": false,
+      "featureIdx": 3,
+      "threshold": 46,
+      "left": {
+        "isLeaf": false,
+        "featureIdx": 4,
+        "threshold": 35,
+        "left": {
+          "isLeaf": false,
+          "featureIdx": 8,
+          "threshold": 99.8657542639467,
+          "left": {
+            "isLeaf": false,
+            "featureIdx": 7,
+            "threshold": 1.8580556296267092,
+            "left": {
+              "isLeaf": false,
+              "featureIdx": 1,
+              "threshold": 27088,
+              "left": {
+                "isLeaf": true,
+                "prediction": "Conservative"
+              },
+              "right": {
+                "isLeaf": true,
+                "prediction": "Moderate"
+              }
+            },
+            "right": {
+              "isLeaf": false,
+              "featureIdx": 8,
+              "threshold": 38.27328564380637,
+              "left": {
+                "isLeaf": false,
+                "featureIdx": 3,
+                "threshold": 38,
+                "left": {
+                  "isLeaf": false,
+                  "featureIdx": 4,
+                  "threshold": 21,
+                  "left": {
+                    "isLeaf": false,
+                    "featureIdx": 2,
+                    "threshold": 86.78519747313082,
+                    "left": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    },
+                    "right": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    }
+                  },
+                  "right": {
+                    "isLeaf": false,
+                    "featureIdx": 9,
+                    "threshold": 72.31328474163665,
+                    "left": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    },
+                    "right": {
+                      "isLeaf": true,
+                      "prediction": "Aggressive"
+                    }
+                  }
+                },
+                "right": {
+                  "isLeaf": false,
+                  "featureIdx": 8,
+                  "threshold": 29.27201452908359,
+                  "left": {
+                    "isLeaf": false,
+                    "featureIdx": 1,
+                    "threshold": 210803,
+                    "left": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    },
+                    "right": {
+                      "isLeaf": true,
+                      "prediction": "Aggressive"
+                    }
+                  },
+                  "right": {
+                    "isLeaf": false,
+                    "featureIdx": 3,
+                    "threshold": 39,
+                    "left": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    },
+                    "right": {
+                      "isLeaf": true,
+                      "prediction": "Aggressive"
+                    }
+                  }
+                }
+              },
+              "right": {
+                "isLeaf": false,
+                "featureIdx": 2,
+                "threshold": 1.5134741579287736,
+                "left": {
+                  "isLeaf": false,
+                  "featureIdx": 2,
+                  "threshold": 1.2941029669156556,
+                  "left": {
+                    "isLeaf": true,
+                    "prediction": "Moderate"
+                  },
+                  "right": {
+                    "isLeaf": true,
+                    "prediction": "Conservative"
+                  }
+                },
+                "right": {
+                  "isLeaf": false,
+                  "featureIdx": 7,
+                  "threshold": 5.12115077623152,
+                  "left": {
+                    "isLeaf": false,
+                    "featureIdx": 0,
+                    "threshold": 44,
+                    "left": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    },
+                    "right": {
+                      "isLeaf": true,
+                      "prediction": "Conservative"
+                    }
+                  },
+                  "right": {
+                    "isLeaf": false,
+                    "featureIdx": 4,
+                    "threshold": 1,
+                    "left": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    },
+                    "right": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "right": {
+            "isLeaf": true,
+            "prediction": "Conservative"
+          }
+        },
+        "right": {
+          "isLeaf": false,
+          "featureIdx": 2,
+          "threshold": 68.26472479496192,
+          "left": {
+            "isLeaf": false,
+            "featureIdx": 9,
+            "threshold": 88.29131158246213,
+            "left": {
+              "isLeaf": true,
+              "prediction": "Moderate"
+            },
+            "right": {
+              "isLeaf": false,
+              "featureIdx": 0,
+              "threshold": 28,
+              "left": {
+                "isLeaf": true,
+                "prediction": "Moderate"
+              },
+              "right": {
+                "isLeaf": true,
+                "prediction": "Aggressive"
+              }
+            }
+          },
+          "right": {
+            "isLeaf": false,
+            "featureIdx": 1,
+            "threshold": 97079,
+            "left": {
+              "isLeaf": false,
+              "featureIdx": 2,
+              "threshold": 86.16298853870674,
+              "left": {
+                "isLeaf": true,
+                "prediction": "Aggressive"
+              },
+              "right": {
+                "isLeaf": false,
+                "featureIdx": 0,
+                "threshold": 21,
+                "left": {
+                  "isLeaf": true,
+                  "prediction": "Aggressive"
+                },
+                "right": {
+                  "isLeaf": true,
+                  "prediction": "Moderate"
+                }
+              }
+            },
+            "right": {
+              "isLeaf": true,
+              "prediction": "Aggressive"
+            }
+          }
+        }
+      },
+      "right": {
+        "isLeaf": false,
+        "featureIdx": 4,
+        "threshold": 25,
+        "left": {
+          "isLeaf": false,
+          "featureIdx": 6,
+          "threshold": 3,
+          "left": {
+            "isLeaf": false,
+            "featureIdx": 1,
+            "threshold": 177792,
+            "left": {
+              "isLeaf": false,
+              "featureIdx": 2,
+              "threshold": 88.1661834952366,
+              "left": {
+                "isLeaf": true,
+                "prediction": "Moderate"
+              },
+              "right": {
+                "isLeaf": false,
+                "featureIdx": 2,
+                "threshold": 88.79909894721239,
+                "left": {
+                  "isLeaf": true,
+                  "prediction": "Aggressive"
+                },
+                "right": {
+                  "isLeaf": false,
+                  "featureIdx": 8,
+                  "threshold": 32.26456446906689,
+                  "left": {
+                    "isLeaf": true,
+                    "prediction": "Aggressive"
+                  },
+                  "right": {
+                    "isLeaf": true,
+                    "prediction": "Moderate"
+                  }
+                }
+              }
+            },
+            "right": {
+              "isLeaf": false,
+              "featureIdx": 2,
+              "threshold": 53.82377537401648,
+              "left": {
+                "isLeaf": true,
+                "prediction": "Moderate"
+              },
+              "right": {
+                "isLeaf": false,
+                "featureIdx": 8,
+                "threshold": 23.40543602122196,
+                "left": {
+                  "isLeaf": true,
+                  "prediction": "Aggressive"
+                },
+                "right": {
+                  "isLeaf": false,
+                  "featureIdx": 3,
+                  "threshold": 61,
+                  "left": {
+                    "isLeaf": true,
+                    "prediction": "Aggressive"
+                  },
+                  "right": {
+                    "isLeaf": true,
+                    "prediction": "Moderate"
+                  }
+                }
+              }
+            }
+          },
+          "right": {
+            "isLeaf": false,
+            "featureIdx": 8,
+            "threshold": 62.01146412277914,
+            "left": {
+              "isLeaf": false,
+              "featureIdx": 3,
+              "threshold": 86,
+              "left": {
+                "isLeaf": false,
+                "featureIdx": 0,
+                "threshold": 48,
+                "left": {
+                  "isLeaf": false,
+                  "featureIdx": 0,
+                  "threshold": 20,
+                  "left": {
+                    "isLeaf": true,
+                    "prediction": "Aggressive"
+                  },
+                  "right": {
+                    "isLeaf": false,
+                    "featureIdx": 8,
+                    "threshold": 3.3158195711516125,
+                    "left": {
+                      "isLeaf": true,
+                      "prediction": "Aggressive"
+                    },
+                    "right": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    }
+                  }
+                },
+                "right": {
+                  "isLeaf": false,
+                  "featureIdx": 8,
+                  "threshold": 33.68797819939422,
+                  "left": {
+                    "isLeaf": true,
+                    "prediction": "Aggressive"
+                  },
+                  "right": {
+                    "isLeaf": false,
+                    "featureIdx": 4,
+                    "threshold": 15,
+                    "left": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    },
+                    "right": {
+                      "isLeaf": true,
+                      "prediction": "Aggressive"
+                    }
+                  }
+                }
+              },
+              "right": {
+                "isLeaf": false,
+                "featureIdx": 9,
+                "threshold": 24.900444253778552,
+                "left": {
+                  "isLeaf": true,
+                  "prediction": "Moderate"
+                },
+                "right": {
+                  "isLeaf": false,
+                  "featureIdx": 7,
+                  "threshold": 31.536970583234258,
+                  "left": {
+                    "isLeaf": false,
+                    "featureIdx": 0,
+                    "threshold": 25,
+                    "left": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    },
+                    "right": {
+                      "isLeaf": true,
+                      "prediction": "Aggressive"
+                    }
+                  },
+                  "right": {
+                    "isLeaf": true,
+                    "prediction": "Aggressive"
+                  }
+                }
+              }
+            },
+            "right": {
+              "isLeaf": true,
+              "prediction": "Moderate"
+            }
+          }
+        },
+        "right": {
+          "isLeaf": false,
+          "featureIdx": 7,
+          "threshold": 33.9871241631879,
+          "left": {
+            "isLeaf": false,
+            "featureIdx": 9,
+            "threshold": 95.72273471582878,
+            "left": {
+              "isLeaf": false,
+              "featureIdx": 2,
+              "threshold": 87.65458962251363,
+              "left": {
+                "isLeaf": false,
+                "featureIdx": 5,
+                "threshold": 94.56480720097467,
+                "left": {
+                  "isLeaf": false,
+                  "featureIdx": 7,
+                  "threshold": 31.489044559132285,
+                  "left": {
+                    "isLeaf": true,
+                    "prediction": "Moderate"
+                  },
+                  "right": {
+                    "isLeaf": false,
+                    "featureIdx": 3,
+                    "threshold": 85,
+                    "left": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    },
+                    "right": {
+                      "isLeaf": true,
+                      "prediction": "Aggressive"
+                    }
+                  }
+                },
+                "right": {
+                  "isLeaf": true,
+                  "prediction": "Aggressive"
+                }
+              },
+              "right": {
+                "isLeaf": false,
+                "featureIdx": 5,
+                "threshold": 42.823876604939116,
+                "left": {
+                  "isLeaf": true,
+                  "prediction": "Moderate"
+                },
+                "right": {
+                  "isLeaf": true,
+                  "prediction": "Aggressive"
+                }
+              }
+            },
+            "right": {
+              "isLeaf": true,
+              "prediction": "Aggressive"
+            }
+          },
+          "right": {
+            "isLeaf": false,
+            "featureIdx": 2,
+            "threshold": 52.7345681933826,
+            "left": {
+              "isLeaf": false,
+              "featureIdx": 8,
+              "threshold": 31.873878916196663,
+              "left": {
+                "isLeaf": false,
+                "featureIdx": 5,
+                "threshold": 38.64243426686842,
+                "left": {
+                  "isLeaf": false,
+                  "featureIdx": 1,
+                  "threshold": 126297,
+                  "left": {
+                    "isLeaf": true,
+                    "prediction": "Moderate"
+                  },
+                  "right": {
+                    "isLeaf": true,
+                    "prediction": "Aggressive"
+                  }
+                },
+                "right": {
+                  "isLeaf": true,
+                  "prediction": "Aggressive"
+                }
+              },
+              "right": {
+                "isLeaf": false,
+                "featureIdx": 4,
+                "threshold": 35,
+                "left": {
+                  "isLeaf": false,
+                  "featureIdx": 1,
+                  "threshold": 32578,
+                  "left": {
+                    "isLeaf": false,
+                    "featureIdx": 0,
+                    "threshold": 34,
+                    "left": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    },
+                    "right": {
+                      "isLeaf": true,
+                      "prediction": "Aggressive"
+                    }
+                  },
+                  "right": {
+                    "isLeaf": false,
+                    "featureIdx": 3,
+                    "threshold": 85,
+                    "left": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    },
+                    "right": {
+                      "isLeaf": true,
+                      "prediction": "Aggressive"
+                    }
+                  }
+                },
+                "right": {
+                  "isLeaf": false,
+                  "featureIdx": 0,
+                  "threshold": 42,
+                  "left": {
+                    "isLeaf": true,
+                    "prediction": "Moderate"
+                  },
+                  "right": {
+                    "isLeaf": false,
+                    "featureIdx": 0,
+                    "threshold": 63,
+                    "left": {
+                      "isLeaf": true,
+                      "prediction": "Aggressive"
+                    },
+                    "right": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    }
+                  }
+                }
+              }
+            },
+            "right": {
+              "isLeaf": false,
+              "featureIdx": 0,
+              "threshold": 26,
+              "left": {
+                "isLeaf": false,
+                "featureIdx": 2,
+                "threshold": 67.15737825282493,
+                "left": {
+                  "isLeaf": true,
+                  "prediction": "Moderate"
+                },
+                "right": {
+                  "isLeaf": true,
+                  "prediction": "Aggressive"
+                }
+              },
+              "right": {
+                "isLeaf": false,
+                "featureIdx": 1,
+                "threshold": 27691,
+                "left": {
+                  "isLeaf": false,
+                  "featureIdx": 0,
+                  "threshold": 36,
+                  "left": {
+                    "isLeaf": true,
+                    "prediction": "Moderate"
+                  },
+                  "right": {
+                    "isLeaf": true,
+                    "prediction": "Aggressive"
+                  }
+                },
+                "right": {
+                  "isLeaf": true,
+                  "prediction": "Aggressive"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "isLeaf": false,
+      "featureIdx": 4,
+      "threshold": 34,
+      "left": {
+        "isLeaf": false,
+        "featureIdx": 9,
+        "threshold": 57.4035231755009,
+        "left": {
+          "isLeaf": false,
+          "featureIdx": 8,
+          "threshold": 3.3158195711516125,
+          "left": {
+            "isLeaf": false,
+            "featureIdx": 7,
+            "threshold": 14.539670299922625,
+            "left": {
+              "isLeaf": true,
+              "prediction": "Moderate"
+            },
+            "right": {
+              "isLeaf": false,
+              "featureIdx": 4,
+              "threshold": 15,
+              "left": {
+                "isLeaf": false,
+                "featureIdx": 0,
+                "threshold": 32,
+                "left": {
+                  "isLeaf": true,
+                  "prediction": "Moderate"
+                },
+                "right": {
+                  "isLeaf": true,
+                  "prediction": "Aggressive"
+                }
+              },
+              "right": {
+                "isLeaf": true,
+                "prediction": "Aggressive"
+              }
+            }
+          },
+          "right": {
+            "isLeaf": false,
+            "featureIdx": 9,
+            "threshold": 0.15866317350292647,
+            "left": {
+              "isLeaf": true,
+              "prediction": "Aggressive"
+            },
+            "right": {
+              "isLeaf": false,
+              "featureIdx": 8,
+              "threshold": 25.54127607215726,
+              "left": {
+                "isLeaf": false,
+                "featureIdx": 1,
+                "threshold": 214474,
+                "left": {
+                  "isLeaf": false,
+                  "featureIdx": 4,
+                  "threshold": 23,
+                  "left": {
+                    "isLeaf": false,
+                    "featureIdx": 0,
+                    "threshold": 22,
+                    "left": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    },
+                    "right": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    }
+                  },
+                  "right": {
+                    "isLeaf": false,
+                    "featureIdx": 5,
+                    "threshold": 15.013028200258649,
+                    "left": {
+                      "isLeaf": true,
+                      "prediction": "Aggressive"
+                    },
+                    "right": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    }
+                  }
+                },
+                "right": {
+                  "isLeaf": true,
+                  "prediction": "Aggressive"
+                }
+              },
+              "right": {
+                "isLeaf": false,
+                "featureIdx": 7,
+                "threshold": 14.542778094015475,
+                "left": {
+                  "isLeaf": false,
+                  "featureIdx": 7,
+                  "threshold": 14.318229821126272,
+                  "left": {
+                    "isLeaf": false,
+                    "featureIdx": 3,
+                    "threshold": 1,
+                    "left": {
+                      "isLeaf": true,
+                      "prediction": "Conservative"
+                    },
+                    "right": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    }
+                  },
+                  "right": {
+                    "isLeaf": false,
+                    "featureIdx": 0,
+                    "threshold": 41,
+                    "left": {
+                      "isLeaf": true,
+                      "prediction": "Conservative"
+                    },
+                    "right": {
+                      "isLeaf": true,
+                      "prediction": "Aggressive"
+                    }
+                  }
+                },
+                "right": {
+                  "isLeaf": false,
+                  "featureIdx": 1,
+                  "threshold": 215548,
+                  "left": {
+                    "isLeaf": false,
+                    "featureIdx": 3,
+                    "threshold": 63,
+                    "left": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    },
+                    "right": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    }
+                  },
+                  "right": {
+                    "isLeaf": false,
+                    "featureIdx": 0,
+                    "threshold": 42,
+                    "left": {
+                      "isLeaf": true,
+                      "prediction": "Aggressive"
+                    },
+                    "right": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "right": {
+          "isLeaf": false,
+          "featureIdx": 3,
+          "threshold": 73,
+          "left": {
+            "isLeaf": false,
+            "featureIdx": 8,
+            "threshold": 0.6589393589322423,
+            "left": {
+              "isLeaf": false,
+              "featureIdx": 5,
+              "threshold": 85.9108193013226,
+              "left": {
+                "isLeaf": true,
+                "prediction": "Aggressive"
+              },
+              "right": {
+                "isLeaf": true,
+                "prediction": "Moderate"
+              }
+            },
+            "right": {
+              "isLeaf": false,
+              "featureIdx": 8,
+              "threshold": 98.76933510089498,
+              "left": {
+                "isLeaf": false,
+                "featureIdx": 4,
+                "threshold": 23,
+                "left": {
+                  "isLeaf": false,
+                  "featureIdx": 7,
+                  "threshold": 98.49998255117463,
+                  "left": {
+                    "isLeaf": false,
+                    "featureIdx": 5,
+                    "threshold": 4.322816672155549,
+                    "left": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    },
+                    "right": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    }
+                  },
+                  "right": {
+                    "isLeaf": true,
+                    "prediction": "Aggressive"
+                  }
+                },
+                "right": {
+                  "isLeaf": false,
+                  "featureIdx": 2,
+                  "threshold": 48.94626650036216,
+                  "left": {
+                    "isLeaf": false,
+                    "featureIdx": 8,
+                    "threshold": 4.981065487035319,
+                    "left": {
+                      "isLeaf": true,
+                      "prediction": "Aggressive"
+                    },
+                    "right": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    }
+                  },
+                  "right": {
+                    "isLeaf": false,
+                    "featureIdx": 1,
+                    "threshold": 62324,
+                    "left": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    },
+                    "right": {
+                      "isLeaf": true,
+                      "prediction": "Aggressive"
+                    }
+                  }
+                }
+              },
+              "right": {
+                "isLeaf": true,
+                "prediction": "Conservative"
+              }
+            }
+          },
+          "right": {
+            "isLeaf": false,
+            "featureIdx": 0,
+            "threshold": 30,
+            "left": {
+              "isLeaf": false,
+              "featureIdx": 1,
+              "threshold": 142981,
+              "left": {
+                "isLeaf": true,
+                "prediction": "Moderate"
+              },
+              "right": {
+                "isLeaf": false,
+                "featureIdx": 0,
+                "threshold": 24,
+                "left": {
+                  "isLeaf": true,
+                  "prediction": "Aggressive"
+                },
+                "right": {
+                  "isLeaf": true,
+                  "prediction": "Moderate"
+                }
+              }
+            },
+            "right": {
+              "isLeaf": false,
+              "featureIdx": 8,
+              "threshold": 84.32871361801284,
+              "left": {
+                "isLeaf": false,
+                "featureIdx": 7,
+                "threshold": 48.67762099660287,
+                "left": {
+                  "isLeaf": false,
+                  "featureIdx": 5,
+                  "threshold": 51.753781504300946,
+                  "left": {
+                    "isLeaf": false,
+                    "featureIdx": 2,
+                    "threshold": 79.66629246834856,
+                    "left": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    },
+                    "right": {
+                      "isLeaf": true,
+                      "prediction": "Aggressive"
+                    }
+                  },
+                  "right": {
+                    "isLeaf": false,
+                    "featureIdx": 1,
+                    "threshold": 36112,
+                    "left": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    },
+                    "right": {
+                      "isLeaf": true,
+                      "prediction": "Aggressive"
+                    }
+                  }
+                },
+                "right": {
+                  "isLeaf": false,
+                  "featureIdx": 2,
+                  "threshold": 10.398305844561673,
+                  "left": {
+                    "isLeaf": true,
+                    "prediction": "Moderate"
+                  },
+                  "right": {
+                    "isLeaf": false,
+                    "featureIdx": 9,
+                    "threshold": 95.54801816095318,
+                    "left": {
+                      "isLeaf": true,
+                      "prediction": "Aggressive"
+                    },
+                    "right": {
+                      "isLeaf": true,
+                      "prediction": "Moderate"
+                    }
+                  }
+                }
+              },
+              "right": {
+                "isLeaf": false,
+                "featureIdx": 0,
+                "threshold": 35,
+                "left": {
+                  "isLeaf": true,
+                  "prediction": "Aggressive"
+                },
+                "right": {
+                  "isLeaf": true,
+                  "prediction": "Moderate"
+                }
+              }
+            }
+          }
+        }
+      },
+      "right": {
+        "isLeaf": false,
+        "featureIdx": 2,
+        "threshold": 68.26472479496192,
+        "left": {
+          "isLeaf": false,
+          "featureIdx": 3,
+          "threshold": 54,
+          "left": {
+            "isLeaf": false,
+            "featureIdx": 7,
+            "threshold": 97.03087577619894,
+            "left": {
+              "isLeaf": false,
+              "featureIdx": 5,
+              "threshold": 84.76589930948751,
+              "left": {
+                "isLeaf": true,
+                "prediction": "Moderate"
+              },
+              "right": {
+                "isLeaf": false,
+                "featureIdx": 0,
+                "threshold": 48,
+                "left": {
+                  "isLeaf": true,
+                  "prediction": "Aggressive"
+                },
+                "right": {
+                  "isLeaf": true,
+                  "prediction": "Moderate"
+                }
+              }
+            },
+            "right": {
+              "isLeaf": true,
+              "prediction": "Aggressive"
+            }
+          },
+          "right": {
+            "isLeaf": false,
+            "featureIdx": 2,
+            "threshold": 5.9009996550617005,
+            "left": {
+              "isLeaf": true,
+              "prediction": "Moderate"
+            },
+            "right": {
+              "isLeaf": false,
+              "featureIdx": 9,
+              "threshold": 14.203759900373193,
+              "left": {
+                "isLeaf": true,
+                "prediction": "Moderate"
+              },
+              "right": {
+                "isLeaf": false,
+                "featureIdx": 5,
+                "threshold": 19.28446844122331,
+                "left": {
+                  "isLeaf": false,
+                  "featureIdx": 0,
+                  "threshold": 47,
+                  "left": {
+                    "isLeaf": true,
+                    "prediction": "Moderate"
+                  },
+                  "right": {
+                    "isLeaf": true,
+                    "prediction": "Aggressive"
+                  }
+                },
+                "right": {
+                  "isLeaf": false,
+                  "featureIdx": 1,
+                  "threshold": 27104,
+                  "left": {
+                    "isLeaf": true,
+                    "prediction": "Moderate"
+                  },
+                  "right": {
+                    "isLeaf": true,
+                    "prediction": "Aggressive"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "right": {
+          "isLeaf": false,
+          "featureIdx": 7,
+          "threshold": 60.38015630960085,
+          "left": {
+            "isLeaf": false,
+            "featureIdx": 8,
+            "threshold": 24.857886983086107,
+            "left": {
+              "isLeaf": false,
+              "featureIdx": 1,
+              "threshold": 82211,
+              "left": {
+                "isLeaf": false,
+                "featureIdx": 1,
+                "threshold": 22292,
+                "left": {
+                  "isLeaf": true,
+                  "prediction": "Aggressive"
+                },
+                "right": {
+                  "isLeaf": true,
+                  "prediction": "Moderate"
+                }
+              },
+              "right": {
+                "isLeaf": true,
+                "prediction": "Aggressive"
+              }
+            },
+            "right": {
+              "isLeaf": false,
+              "featureIdx": 0,
+              "threshold": 33,
+              "left": {
+                "isLeaf": true,
+                "prediction": "Aggressive"
+              },
+              "right": {
+                "isLeaf": true,
+                "prediction": "Moderate"
+              }
+            }
+          },
+          "right": {
+            "isLeaf": false,
+            "featureIdx": 0,
+            "threshold": 68,
+            "left": {
+              "isLeaf": true,
+              "prediction": "Aggressive"
+            },
+            "right": {
+              "isLeaf": true,
+              "prediction": "Moderate"
+            }
+          }
+        }
+      }
+    }
+  ],
+  "featureNames": [
+    "feature_0",
+    "feature_1",
+    "feature_2",
+    "feature_3",
+    "feature_4",
+    "feature_5",
+    "feature_6",
+    "feature_7",
+    "feature_8",
+    "feature_9"
+  ],
+  "nTrees": 10,
+  "maxDepth": 8,
+  "featureImportance": [
+    {
+      "feature": "feature_0",
+      "importance": 10
+    },
+    {
+      "feature": "feature_1",
+      "importance": 10
+    },
+    {
+      "feature": "feature_2",
+      "importance": 10
+    },
+    {
+      "feature": "feature_3",
+      "importance": 10
+    },
+    {
+      "feature": "feature_4",
+      "importance": 10
+    },
+    {
+      "feature": "feature_5",
+      "importance": 10
+    },
+    {
+      "feature": "feature_6",
+      "importance": 10
+    },
+    {
+      "feature": "feature_7",
+      "importance": 10
+    },
+    {
+      "feature": "feature_8",
+      "importance": 10
+    },
+    {
+      "feature": "feature_9",
+      "importance": 10
+    }
+  ],
+  "accuracy": 0.967,
+  "trainingDate": "2026-04-08T03:55:12.512Z"
+}

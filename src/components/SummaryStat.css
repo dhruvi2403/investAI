@@ -1,0 +1,18 @@
+/* src/components/SummaryStat.css */
+.summary-stat {
+    background-color: #f1f5f9;
+    padding: 15px;
+    border-radius: 6px;
+    text-align: center;
+  }
+  
+  .summary-value {
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 5px;
+  }
+  
+  .summary-label {
+    font-size: 14px;
+    color: var(--text-muted);
+  }

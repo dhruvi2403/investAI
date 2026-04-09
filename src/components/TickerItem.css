@@ -1,0 +1,25 @@
+/* src/components/TickerItem.css */
+.ticker {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 8px 15px;
+    border-radius: 6px;
+    background-color: var(--hover-bg);
+    margin: 5px 0;
+  }
+  
+  .ticker-symbol {
+    font-weight: 600;
+  }
+  
+  .ticker-price {
+    font-weight: 500;
+  }
+  
+  .ticker-change {
+    padding: 2px 6px;
+    border-radius: 4px;
+    font-size: 12px;
+    font-weight: 500;
+  }

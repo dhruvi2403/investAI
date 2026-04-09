@@ -1,0 +1,23 @@
+/* src/components/StatItem.css */
+.stat {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 0;
+    border-bottom: 1px solid #e5e7eb;
+  }
+  
+  .stat.last {
+    border-bottom: none;
+  }
+  
+  .stat-label {
+    font-size: 14px;
+    color: var(--text-muted);
+  }
+  
+  .stat-value {
+    font-size: 16px;
+    font-weight: 500;
+    color: var(--text-dark);
+  }

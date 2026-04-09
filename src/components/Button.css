@@ -1,0 +1,33 @@
+/* src/components/Button.css */
+.button {
+    padding: 8px 16px;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: 600;
+    transition: all 0.3s ease;
+    border: none;
+  }
+  
+  .button.primary {
+    background-color: var(--primary);
+    color: white;
+  }
+  
+  .button.primary:hover {
+    background-color: #1d4ed8;
+    transform: translateY(-2px);
+  }
+  
+  .button.outline {
+    color: var(--primary);
+    background: transparent;
+    border: 1px solid var(--primary);
+    padding: 6px 12px;
+    font-size: 13px;
+    font-weight: 500;
+  }
+  
+  .button.outline:hover {
+    background-color: rgba(37, 99, 235, 0.1);
+  }

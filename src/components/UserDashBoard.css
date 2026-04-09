@@ -1,0 +1,57 @@
+/* src/pages/Dashboard.css */
+.portfolio-health {
+    margin-bottom: 10px;
+  }
+  
+  .section-title {
+    font-weight: 600;
+    margin-bottom: 5px;
+  }
+  
+  .risk-level {
+    margin-bottom: 10px;
+  }
+  
+  .risk-badge {
+    display: inline-block;
+    padding: 4px 8px;
+    border-radius: 4px;
+    font-size: 12px;
+    font-weight: 500;
+    background-color: rgba(245, 158, 11, 0.1);
+    color: var(--warning);
+  }
+  
+  .insight-text {
+    color: var(--text-muted);
+    font-size: 14px;
+    margin: 10px 0;
+  }
+  
+  .next-action {
+    margin-top: 20px;
+  }
+  
+  .action-list {
+    list-style: none;
+    margin: 10px 0;
+  }
+  
+  .action-list li {
+    padding: 8px 0;
+    display: flex;
+    align-items: center;
+  }
+  
+  .action-list li::before {
+    content: "•";
+    color: var(--primary);
+    font-weight: bold;
+    display: inline-block;
+    width: 1em;
+    margin-left: 0;
+  }
+  
+  .summary-stats {
+    margin-top: 15px;
+  }

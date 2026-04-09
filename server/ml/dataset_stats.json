@@ -1,0 +1,20 @@
+{
+  "totalSamples": 1000,
+  "classDistribution": {
+    "Conservative": 18,
+    "Moderate": 779,
+    "Aggressive": 203
+  },
+  "features": [
+    "age",
+    "income",
+    "savingsRate",
+    "tradingFrequency",
+    "investmentHorizon",
+    "riskTolerance",
+    "preferredAssetCount",
+    "gainReactionScore",
+    "lossReactionScore",
+    "volatilityTolerance"
+  ]
+}
